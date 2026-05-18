@@ -1,0 +1,2001 @@
+order_item_id,order_id,item_name,quantity,price
+1,655,Masala Dosa,1,465.61
+2,251,Veg Fried Rice,2,462.97
+3,693,Chocolate Brownie,5,125.21
+4,433,Chicken Biryani,1,128.72
+5,239,Idli Sambhar,5,93.8
+6,204,Ice Cream Sundae,5,298.15
+7,460,Pav Bhaji,3,500.9
+8,7,Cold Coffee,2,443.03
+9,349,Hakka Noodles,2,191.96
+10,782,Farmhouse Pizza,1,128.23
+11,100,Veg Burger,3,393.94
+12,827,Chicken Biryani,4,358.84
+13,997,Tandoori Roti,4,120.98
+14,301,Lassi,5,540.43
+15,371,Pav Bhaji,2,446.38
+16,47,Rasgulla,2,482.0
+17,82,Samosa,2,530.57
+18,390,Hakka Noodles,4,410.56
+19,374,Dal Tadka,3,264.74
+20,687,Hakka Noodles,1,396.75
+21,176,Vada Pav,2,164.97
+22,389,Hakka Noodles,5,194.2
+23,333,Lassi,1,199.1
+24,33,Mango Shake,3,288.61
+25,68,Chicken Tikka,5,535.71
+26,323,Chicken Tikka,4,285.73
+27,937,Gulab Jamun,4,154.29
+28,143,Veg Fried Rice,5,360.27
+29,765,Pav Bhaji,4,546.87
+30,409,Veg Burger,2,598.61
+31,142,Idli Sambhar,4,127.27
+32,49,Samosa,1,159.48
+33,164,Mango Shake,4,390.13
+34,395,Chicken Burger,5,597.98
+35,542,Hakka Noodles,5,527.61
+36,12,Rasgulla,1,434.49
+37,550,Cold Coffee,3,479.67
+38,349,Masala Dosa,3,306.08
+39,465,Paneer Butter Masala,3,585.38
+40,781,Dal Tadka,5,554.57
+41,892,Gulab Jamun,3,517.67
+42,520,Momos,2,159.48
+43,781,Dal Tadka,5,575.82
+44,945,Idli Sambhar,1,391.45
+45,501,Paneer Butter Masala,1,563.13
+46,900,Lassi,3,204.52
+47,247,Kathi Roll,5,572.41
+48,88,Chocolate Brownie,4,504.33
+49,779,Vada Pav,2,146.76
+50,487,Vada Pav,2,217.83
+51,894,Momos,4,581.47
+52,952,Vada Pav,2,450.73
+53,409,Rasgulla,3,307.81
+54,530,Chole Bhature,1,208.91
+55,66,Farmhouse Pizza,1,385.92
+56,236,Pav Bhaji,2,83.74
+57,725,Gulab Jamun,1,199.05
+58,928,Chicken Biryani,3,116.85
+59,244,Hakka Noodles,4,191.4
+60,136,Chocolate Brownie,5,379.63
+61,249,Mango Shake,4,499.9
+62,195,Masala Dosa,1,422.67
+63,363,French Fries,4,322.85
+64,747,Chicken Biryani,1,111.52
+65,746,Farmhouse Pizza,1,209.3
+66,195,Vada Pav,4,152.89
+67,188,Hakka Noodles,4,209.9
+68,946,Veg Biryani,4,500.17
+69,877,Vada Pav,1,106.31
+70,554,Lassi,1,583.88
+71,949,Cold Coffee,2,166.48
+72,498,Rajma Chawal,2,529.62
+73,925,Chicken Biryani,2,277.07
+74,400,Hakka Noodles,4,228.33
+75,714,Chocolate Brownie,5,424.17
+76,499,Butter Naan,2,234.29
+77,992,Chicken Biryani,5,462.58
+78,63,Chocolate Brownie,3,109.73
+79,599,Rajma Chawal,5,558.08
+80,544,Dal Tadka,1,579.61
+81,83,Samosa,2,115.63
+82,70,Rasgulla,2,289.96
+83,965,Kathi Roll,5,208.03
+84,609,Chicken Biryani,5,122.63
+85,674,Pav Bhaji,5,351.85
+86,958,Hakka Noodles,2,428.26
+87,322,Veg Fried Rice,3,285.81
+88,688,Gulab Jamun,3,317.76
+89,952,Cold Coffee,1,84.84
+90,637,Pav Bhaji,1,118.1
+91,219,Idli Sambhar,3,148.88
+92,358,Kathi Roll,1,537.22
+93,379,Margherita Pizza,2,307.86
+94,557,Ice Cream Sundae,3,398.07
+95,827,Gulab Jamun,5,84.07
+96,837,Vada Pav,3,564.51
+97,107,Kathi Roll,2,217.52
+98,912,Masala Dosa,5,160.83
+99,289,Momos,2,453.16
+100,209,Rasgulla,3,342.81
+101,258,Kathi Roll,1,128.0
+102,434,Lassi,3,102.93
+103,342,Cold Coffee,2,411.3
+104,269,Dal Tadka,4,366.87
+105,438,Vada Pav,1,138.17
+106,968,Kathi Roll,2,363.71
+107,855,Veg Burger,5,367.31
+108,441,Butter Naan,1,240.29
+109,921,Tandoori Roti,1,547.44
+110,216,Rasgulla,2,426.81
+111,363,Cold Coffee,5,539.75
+112,417,Momos,2,561.4
+113,243,Samosa,2,587.63
+114,831,Dal Tadka,4,92.89
+115,755,Tandoori Roti,3,486.84
+116,422,Mango Shake,2,218.74
+117,807,Ice Cream Sundae,1,278.92
+118,40,Samosa,4,195.67
+119,837,Tandoori Roti,4,261.82
+120,841,Mango Shake,2,195.92
+121,676,Chicken Tikka,4,250.7
+122,886,Veg Biryani,3,262.6
+123,522,Chicken Burger,5,252.2
+124,29,Masala Dosa,3,172.86
+125,986,Hakka Noodles,1,136.37
+126,445,Veg Burger,3,306.92
+127,524,Masala Dosa,4,547.74
+128,195,Hakka Noodles,1,448.57
+129,2,Idli Sambhar,5,437.17
+130,963,Chocolate Brownie,2,269.4
+131,72,Rasgulla,3,404.04
+132,680,Samosa,1,454.27
+133,308,Idli Sambhar,3,426.78
+134,335,Chicken Burger,3,368.29
+135,197,French Fries,4,432.21
+136,925,Dal Tadka,5,375.93
+137,416,Vada Pav,1,238.01
+138,216,French Fries,5,395.46
+139,330,Chole Bhature,4,309.92
+140,219,Idli Sambhar,4,492.74
+141,983,Mango Shake,2,422.6
+142,291,Idli Sambhar,5,254.3
+143,839,Cold Coffee,2,429.85
+144,231,Mango Shake,2,156.62
+145,48,Veg Fried Rice,4,397.86
+146,787,Veg Biryani,4,295.51
+147,645,Pav Bhaji,2,453.54
+148,394,Rajma Chawal,4,206.87
+149,672,Ice Cream Sundae,1,544.18
+150,882,Cold Coffee,1,484.78
+151,225,Dal Tadka,5,321.57
+152,571,Veg Fried Rice,1,317.36
+153,821,Chole Bhature,5,593.7
+154,610,Farmhouse Pizza,4,398.58
+155,737,Kathi Roll,5,301.91
+156,929,Vada Pav,4,546.55
+157,762,Samosa,4,314.04
+158,770,Veg Fried Rice,3,478.22
+159,534,Rajma Chawal,2,222.79
+160,80,Ice Cream Sundae,3,201.94
+161,344,Farmhouse Pizza,5,121.9
+162,155,Veg Fried Rice,4,440.85
+163,724,Chicken Tikka,1,295.73
+164,339,Vada Pav,4,296.2
+165,212,Lassi,4,282.53
+166,789,Pav Bhaji,1,525.5
+167,784,Pav Bhaji,4,328.03
+168,966,Veg Burger,3,471.81
+169,874,Kathi Roll,4,359.87
+170,753,Vada Pav,5,546.86
+171,500,Veg Fried Rice,3,306.63
+172,30,Chicken Burger,3,427.81
+173,818,Chicken Burger,2,517.06
+174,942,Butter Naan,5,357.74
+175,929,Chicken Burger,5,373.48
+176,28,Veg Biryani,4,150.56
+177,473,Dal Tadka,1,215.28
+178,336,Chicken Tikka,4,249.96
+179,780,Kathi Roll,4,224.69
+180,975,Lassi,4,211.18
+181,84,Rajma Chawal,1,469.49
+182,54,Veg Burger,2,418.07
+183,800,Gulab Jamun,1,472.2
+184,973,Veg Fried Rice,2,516.4
+185,637,Butter Naan,2,145.63
+186,686,Masala Dosa,5,572.83
+187,477,Ice Cream Sundae,3,478.79
+188,172,Momos,5,581.14
+189,736,Masala Dosa,2,581.65
+190,111,Pav Bhaji,1,563.02
+191,590,Rasgulla,4,286.26
+192,733,Chicken Tikka,1,387.89
+193,851,Gulab Jamun,2,132.99
+194,792,Margherita Pizza,5,498.87
+195,816,Pav Bhaji,1,260.55
+196,439,Rasgulla,3,115.86
+197,664,Farmhouse Pizza,1,521.78
+198,843,Rajma Chawal,1,305.43
+199,371,Gulab Jamun,4,447.8
+200,446,Dal Tadka,5,582.05
+201,277,Momos,5,482.81
+202,477,French Fries,5,219.57
+203,873,Veg Fried Rice,1,225.04
+204,462,Veg Fried Rice,4,376.32
+205,685,Chicken Burger,3,94.92
+206,872,Farmhouse Pizza,2,333.53
+207,364,Mango Shake,3,256.98
+208,902,Momos,3,369.01
+209,530,Chicken Tikka,1,205.51
+210,417,Rajma Chawal,5,474.25
+211,708,Rajma Chawal,4,313.05
+212,18,Veg Biryani,3,195.23
+213,709,Veg Fried Rice,3,425.26
+214,378,Rajma Chawal,5,356.08
+215,436,Chocolate Brownie,5,252.01
+216,720,Chole Bhature,3,239.44
+217,237,Masala Dosa,2,244.08
+218,761,Vada Pav,2,179.6
+219,757,Rajma Chawal,3,456.78
+220,779,Idli Sambhar,5,227.16
+221,103,Lassi,2,234.05
+222,370,Dal Tadka,3,87.36
+223,547,Butter Naan,3,103.67
+224,56,Vada Pav,3,442.66
+225,130,Gulab Jamun,4,133.35
+226,13,Pav Bhaji,3,324.09
+227,452,Farmhouse Pizza,2,582.06
+228,259,Samosa,4,139.33
+229,67,Chicken Burger,4,118.52
+230,645,Rasgulla,1,158.9
+231,831,Pav Bhaji,3,124.29
+232,255,Masala Dosa,5,477.51
+233,621,Momos,5,197.36
+234,536,Chicken Burger,4,552.42
+235,305,Samosa,5,594.82
+236,313,Pav Bhaji,5,111.32
+237,984,Chocolate Brownie,1,572.75
+238,213,Gulab Jamun,2,217.62
+239,84,Dal Tadka,2,170.38
+240,77,Dal Tadka,1,292.43
+241,706,Momos,4,231.45
+242,238,Margherita Pizza,3,445.55
+243,465,Veg Biryani,2,560.43
+244,807,Mango Shake,5,423.82
+245,957,Chicken Tikka,4,139.68
+246,231,Gulab Jamun,2,552.37
+247,847,Butter Naan,1,111.01
+248,812,Margherita Pizza,5,469.46
+249,583,Tandoori Roti,3,308.36
+250,480,Ice Cream Sundae,3,443.86
+251,966,Hakka Noodles,5,360.79
+252,449,Veg Biryani,5,100.73
+253,443,Chocolate Brownie,3,393.93
+254,27,Veg Biryani,2,580.19
+255,857,Samosa,5,385.3
+256,22,Cold Coffee,3,379.65
+257,782,Cold Coffee,2,324.66
+258,668,Chole Bhature,3,174.37
+259,600,French Fries,4,583.91
+260,482,Veg Burger,4,253.32
+261,687,Masala Dosa,2,251.5
+262,711,Rajma Chawal,3,424.54
+263,411,Lassi,5,99.08
+264,91,Farmhouse Pizza,3,248.1
+265,994,Cold Coffee,4,529.75
+266,845,Paneer Butter Masala,5,320.23
+267,56,Chicken Tikka,5,268.13
+268,775,Rajma Chawal,4,475.2
+269,209,Hakka Noodles,5,148.13
+270,295,Chole Bhature,4,143.14
+271,997,Gulab Jamun,5,495.64
+272,727,Dal Tadka,3,366.44
+273,566,French Fries,1,196.84
+274,862,Tandoori Roti,1,319.95
+275,121,Gulab Jamun,2,339.16
+276,734,Margherita Pizza,5,446.81
+277,426,Lassi,4,589.73
+278,250,Chole Bhature,5,155.21
+279,196,Tandoori Roti,5,344.29
+280,901,Butter Naan,1,223.65
+281,809,Samosa,4,256.74
+282,807,Idli Sambhar,3,506.69
+283,290,Chocolate Brownie,3,515.49
+284,594,Rasgulla,4,529.94
+285,458,Vada Pav,4,259.46
+286,566,Cold Coffee,5,276.15
+287,956,Farmhouse Pizza,2,590.0
+288,245,Pav Bhaji,4,201.45
+289,795,French Fries,1,245.45
+290,485,Ice Cream Sundae,4,280.76
+291,680,Mango Shake,2,337.57
+292,38,Butter Naan,5,581.98
+293,340,Samosa,1,534.58
+294,451,Masala Dosa,5,553.43
+295,16,Chocolate Brownie,2,293.19
+296,671,Butter Naan,1,324.14
+297,993,Hakka Noodles,3,404.09
+298,408,Gulab Jamun,1,522.92
+299,873,Rasgulla,5,277.6
+300,325,Gulab Jamun,4,533.64
+301,37,Momos,1,202.08
+302,701,Tandoori Roti,3,598.66
+303,765,Veg Biryani,4,588.74
+304,779,Gulab Jamun,1,310.71
+305,711,Margherita Pizza,1,103.92
+306,816,Chicken Biryani,3,266.4
+307,442,Butter Naan,2,356.21
+308,580,Rasgulla,2,168.39
+309,81,Momos,4,402.25
+310,247,Rajma Chawal,5,154.42
+311,473,Gulab Jamun,3,318.98
+312,683,Paneer Butter Masala,4,548.63
+313,694,Vada Pav,2,118.41
+314,968,Veg Burger,5,235.56
+315,986,French Fries,3,317.55
+316,310,Chicken Tikka,4,523.73
+317,110,Veg Fried Rice,4,377.4
+318,589,Margherita Pizza,3,91.41
+319,850,Rasgulla,4,222.73
+320,580,Samosa,1,553.52
+321,764,Rajma Chawal,3,483.39
+322,236,Momos,3,193.88
+323,195,Momos,3,432.44
+324,739,Cold Coffee,2,406.69
+325,926,Gulab Jamun,1,240.65
+326,452,Chicken Biryani,5,269.73
+327,135,Veg Biryani,3,249.89
+328,426,Dal Tadka,2,148.72
+329,553,Kathi Roll,3,356.04
+330,936,Hakka Noodles,2,213.62
+331,845,Rajma Chawal,3,468.21
+332,347,Mango Shake,1,323.53
+333,78,Butter Naan,2,527.27
+334,742,Rasgulla,4,582.98
+335,824,Vada Pav,3,126.96
+336,405,Paneer Butter Masala,3,359.02
+337,466,Veg Burger,3,383.97
+338,843,Gulab Jamun,3,136.34
+339,240,Rajma Chawal,1,402.16
+340,966,Vada Pav,3,555.93
+341,227,Gulab Jamun,1,410.41
+342,476,Tandoori Roti,3,417.6
+343,120,Butter Naan,1,572.06
+344,312,Rajma Chawal,1,130.54
+345,909,Vada Pav,2,282.1
+346,380,Rasgulla,5,297.95
+347,761,Chocolate Brownie,2,540.42
+348,671,Masala Dosa,4,400.14
+349,962,Hakka Noodles,1,438.95
+350,223,Chole Bhature,4,574.29
+351,876,Veg Burger,1,590.08
+352,377,Vada Pav,3,111.49
+353,283,Chicken Tikka,1,573.49
+354,844,Chole Bhature,1,424.64
+355,658,Gulab Jamun,5,584.97
+356,52,Mango Shake,3,206.66
+357,129,Mango Shake,5,186.71
+358,850,Cold Coffee,5,187.72
+359,222,Lassi,2,250.85
+360,152,Mango Shake,5,81.47
+361,880,Butter Naan,2,360.91
+362,818,Dal Tadka,1,423.75
+363,27,Butter Naan,1,266.29
+364,808,Veg Fried Rice,5,248.36
+365,179,Hakka Noodles,1,145.91
+366,432,Idli Sambhar,1,467.75
+367,488,Chole Bhature,3,346.88
+368,112,Chole Bhature,5,195.21
+369,630,Chicken Biryani,5,236.85
+370,659,Paneer Butter Masala,1,599.27
+371,868,Chicken Burger,4,436.77
+372,503,Ice Cream Sundae,4,118.22
+373,83,Farmhouse Pizza,5,157.13
+374,130,Hakka Noodles,5,409.2
+375,562,Ice Cream Sundae,3,278.07
+376,612,Idli Sambhar,3,315.93
+377,620,French Fries,1,492.41
+378,118,Samosa,5,454.84
+379,221,French Fries,4,541.81
+380,424,Farmhouse Pizza,4,287.34
+381,748,Masala Dosa,3,301.92
+382,682,Hakka Noodles,3,575.87
+383,704,Tandoori Roti,4,114.91
+384,852,Veg Biryani,1,304.58
+385,763,Chocolate Brownie,3,502.12
+386,570,Chicken Biryani,5,577.44
+387,576,Farmhouse Pizza,1,293.62
+388,895,Rasgulla,4,531.41
+389,739,Chicken Biryani,3,392.21
+390,361,Masala Dosa,5,343.85
+391,159,Rasgulla,4,196.61
+392,111,Veg Burger,5,271.13
+393,781,Hakka Noodles,5,197.6
+394,440,Samosa,5,586.76
+395,839,Momos,5,430.99
+396,571,Paneer Butter Masala,5,563.12
+397,850,Ice Cream Sundae,3,95.06
+398,280,Ice Cream Sundae,3,559.2
+399,360,Paneer Butter Masala,2,532.33
+400,580,Rasgulla,4,116.18
+401,759,Gulab Jamun,1,127.71
+402,544,Chicken Tikka,4,298.31
+403,350,Dal Tadka,3,242.05
+404,333,Cold Coffee,5,390.04
+405,905,Chicken Biryani,2,161.85
+406,633,Chicken Biryani,1,221.49
+407,678,French Fries,4,395.68
+408,425,Hakka Noodles,2,472.57
+409,117,Veg Burger,4,137.66
+410,695,Rasgulla,5,333.05
+411,684,Margherita Pizza,1,194.67
+412,614,Chicken Biryani,1,186.3
+413,969,Chicken Tikka,2,477.36
+414,297,Farmhouse Pizza,1,84.02
+415,765,French Fries,2,147.18
+416,546,Ice Cream Sundae,2,340.14
+417,854,Rasgulla,3,117.48
+418,883,Chocolate Brownie,1,306.83
+419,471,Tandoori Roti,1,528.3
+420,590,French Fries,5,290.3
+421,656,French Fries,3,139.89
+422,22,Farmhouse Pizza,2,496.69
+423,633,Chole Bhature,3,125.83
+424,865,Masala Dosa,2,306.55
+425,411,Idli Sambhar,1,285.8
+426,318,Chocolate Brownie,3,195.22
+427,798,Dal Tadka,1,345.45
+428,117,Idli Sambhar,5,180.83
+429,795,Veg Burger,3,458.24
+430,839,Gulab Jamun,2,202.86
+431,150,Hakka Noodles,2,170.22
+432,157,Cold Coffee,1,172.12
+433,792,Gulab Jamun,4,321.26
+434,578,Cold Coffee,5,313.43
+435,947,Kathi Roll,5,414.36
+436,640,Farmhouse Pizza,3,158.5
+437,70,Rajma Chawal,4,408.32
+438,816,Hakka Noodles,5,109.21
+439,520,Veg Biryani,3,320.11
+440,39,Chicken Biryani,3,512.48
+441,79,Gulab Jamun,1,399.8
+442,520,Chicken Burger,4,381.77
+443,978,Mango Shake,1,313.86
+444,830,Pav Bhaji,2,247.19
+445,488,Idli Sambhar,2,578.02
+446,462,Masala Dosa,3,590.84
+447,87,Idli Sambhar,2,100.35
+448,725,Chole Bhature,4,352.52
+449,625,Dal Tadka,3,273.88
+450,290,Chicken Burger,4,482.72
+451,696,Momos,1,490.4
+452,663,Farmhouse Pizza,1,251.44
+453,572,Rasgulla,4,227.76
+454,742,Samosa,5,534.11
+455,342,Veg Biryani,5,425.08
+456,939,Veg Burger,3,583.2
+457,716,Rasgulla,4,147.05
+458,726,Veg Biryani,3,370.64
+459,659,Mango Shake,3,502.86
+460,687,Ice Cream Sundae,5,128.6
+461,687,French Fries,5,268.15
+462,372,Margherita Pizza,2,574.61
+463,350,Cold Coffee,4,179.84
+464,141,Butter Naan,1,233.81
+465,808,Masala Dosa,5,480.85
+466,856,Chocolate Brownie,5,99.63
+467,345,Kathi Roll,5,148.15
+468,386,Butter Naan,2,174.04
+469,710,Cold Coffee,5,500.7
+470,170,Chocolate Brownie,4,102.72
+471,374,Rasgulla,2,584.19
+472,626,Margherita Pizza,4,201.68
+473,245,Margherita Pizza,4,550.07
+474,199,Veg Burger,5,591.91
+475,473,Cold Coffee,3,484.62
+476,515,Idli Sambhar,4,582.46
+477,837,Chicken Tikka,5,151.97
+478,257,Chicken Biryani,4,534.54
+479,568,Tandoori Roti,1,449.93
+480,529,Samosa,1,228.23
+481,782,Dal Tadka,3,313.65
+482,526,Butter Naan,4,127.69
+483,933,Veg Fried Rice,4,540.01
+484,953,Paneer Butter Masala,4,107.69
+485,515,Veg Burger,2,280.81
+486,84,Veg Burger,2,94.66
+487,954,Masala Dosa,3,491.52
+488,141,Chicken Biryani,3,557.05
+489,484,Ice Cream Sundae,2,474.6
+490,481,Chole Bhature,5,82.73
+491,82,Paneer Butter Masala,3,192.14
+492,154,Vada Pav,5,354.44
+493,114,Cold Coffee,3,203.57
+494,125,Chicken Biryani,2,298.31
+495,813,Momos,4,112.66
+496,857,Kathi Roll,4,390.3
+497,17,Gulab Jamun,5,379.02
+498,736,Butter Naan,3,303.2
+499,630,Veg Burger,2,376.75
+500,192,Rasgulla,1,352.21
+501,370,Veg Biryani,5,362.92
+502,806,Idli Sambhar,5,90.57
+503,895,Rajma Chawal,1,410.55
+504,383,Hakka Noodles,1,265.69
+505,70,Veg Burger,2,461.13
+506,644,Masala Dosa,5,462.3
+507,341,Butter Naan,1,263.2
+508,347,Lassi,2,511.8
+509,702,Chole Bhature,4,408.5
+510,831,Butter Naan,1,452.34
+511,967,Chole Bhature,1,232.59
+512,45,Mango Shake,2,540.61
+513,324,Tandoori Roti,3,348.0
+514,835,Vada Pav,4,211.72
+515,772,Gulab Jamun,2,228.78
+516,883,Cold Coffee,1,530.22
+517,340,Hakka Noodles,1,495.66
+518,448,Kathi Roll,4,466.52
+519,917,Chicken Burger,3,586.34
+520,509,Ice Cream Sundae,4,271.02
+521,817,Idli Sambhar,3,496.6
+522,745,French Fries,1,303.92
+523,843,Dal Tadka,5,232.76
+524,106,Veg Biryani,3,423.68
+525,314,Chole Bhature,5,453.18
+526,171,Ice Cream Sundae,4,262.8
+527,44,Chocolate Brownie,3,399.72
+528,446,Hakka Noodles,1,119.02
+529,653,Chicken Burger,3,346.8
+530,768,Rasgulla,2,575.45
+531,147,Samosa,5,432.61
+532,449,Chicken Biryani,2,114.96
+533,798,Gulab Jamun,3,268.32
+534,973,Pav Bhaji,1,394.65
+535,696,Chole Bhature,3,273.45
+536,782,Veg Biryani,5,151.6
+537,376,Chicken Burger,3,417.77
+538,256,Masala Dosa,1,462.55
+539,512,Idli Sambhar,4,555.04
+540,121,Hakka Noodles,3,446.1
+541,220,Momos,3,440.87
+542,503,Chicken Tikka,1,150.58
+543,76,Chole Bhature,2,547.31
+544,456,Veg Biryani,3,427.28
+545,727,Veg Biryani,5,361.93
+546,913,Margherita Pizza,2,450.14
+547,950,Ice Cream Sundae,2,492.72
+548,521,Veg Fried Rice,1,592.27
+549,812,Butter Naan,2,490.99
+550,27,Veg Burger,5,377.58
+551,479,Mango Shake,5,147.48
+552,906,Veg Biryani,1,240.83
+553,735,Chocolate Brownie,4,353.36
+554,788,French Fries,5,118.35
+555,996,Farmhouse Pizza,1,313.99
+556,697,Idli Sambhar,3,146.73
+557,849,Cold Coffee,5,412.69
+558,187,Cold Coffee,2,304.96
+559,933,Samosa,1,512.32
+560,531,Butter Naan,3,165.62
+561,331,Tandoori Roti,2,259.93
+562,964,Idli Sambhar,3,519.89
+563,257,Chicken Tikka,5,222.71
+564,641,Margherita Pizza,5,357.41
+565,515,Gulab Jamun,2,387.74
+566,595,Butter Naan,2,422.54
+567,738,Kathi Roll,5,255.56
+568,947,Pav Bhaji,1,509.12
+569,30,Veg Biryani,1,573.24
+570,790,Pav Bhaji,3,418.59
+571,786,Pav Bhaji,4,401.42
+572,32,Rajma Chawal,5,230.63
+573,980,Margherita Pizza,4,207.34
+574,827,Rasgulla,4,234.67
+575,75,Ice Cream Sundae,1,162.2
+576,426,Rajma Chawal,4,186.09
+577,622,Butter Naan,3,527.97
+578,327,Chocolate Brownie,3,587.19
+579,134,Cold Coffee,3,347.79
+580,109,Farmhouse Pizza,2,322.57
+581,274,Chole Bhature,2,153.26
+582,52,Margherita Pizza,4,529.37
+583,429,Veg Fried Rice,2,503.01
+584,957,Pav Bhaji,3,178.71
+585,164,Rajma Chawal,5,322.74
+586,901,Margherita Pizza,4,92.05
+587,968,Chicken Burger,5,317.76
+588,247,Chicken Tikka,5,263.51
+589,52,Margherita Pizza,4,390.71
+590,864,Gulab Jamun,4,228.59
+591,9,Samosa,1,304.08
+592,904,Hakka Noodles,3,477.21
+593,375,Chicken Biryani,4,106.6
+594,576,Chicken Tikka,3,367.68
+595,76,Chicken Burger,5,314.18
+596,564,Hakka Noodles,5,433.81
+597,122,Butter Naan,1,284.83
+598,814,Farmhouse Pizza,5,568.25
+599,774,Butter Naan,2,393.28
+600,412,Idli Sambhar,1,103.56
+601,141,Ice Cream Sundae,3,498.06
+602,532,Chole Bhature,2,395.26
+603,528,Butter Naan,3,564.31
+604,327,Dal Tadka,4,595.12
+605,758,Lassi,3,388.74
+606,520,Lassi,5,356.82
+607,726,Pav Bhaji,3,326.94
+608,18,Veg Burger,3,430.38
+609,427,Pav Bhaji,3,494.31
+610,743,Samosa,1,390.39
+611,272,Gulab Jamun,5,380.37
+612,739,Chicken Biryani,5,329.83
+613,537,Gulab Jamun,5,482.8
+614,390,Butter Naan,2,96.42
+615,971,Ice Cream Sundae,1,179.21
+616,452,Farmhouse Pizza,4,158.74
+617,708,Chicken Tikka,4,340.95
+618,627,Tandoori Roti,4,533.87
+619,754,Chocolate Brownie,1,447.0
+620,532,Chicken Tikka,5,249.03
+621,679,Rajma Chawal,5,275.95
+622,980,Dal Tadka,4,554.3
+623,351,Vada Pav,3,431.45
+624,889,Chocolate Brownie,3,397.24
+625,197,Veg Fried Rice,3,370.21
+626,231,Margherita Pizza,3,446.55
+627,707,Ice Cream Sundae,4,244.86
+628,358,Vada Pav,3,229.65
+629,588,Rasgulla,5,277.44
+630,405,Lassi,3,576.4
+631,824,Butter Naan,3,101.87
+632,979,Ice Cream Sundae,1,260.11
+633,453,Gulab Jamun,3,468.62
+634,220,Chicken Tikka,5,220.99
+635,576,Ice Cream Sundae,3,151.38
+636,631,Chocolate Brownie,5,204.43
+637,52,Rasgulla,5,197.35
+638,239,Chicken Biryani,1,294.92
+639,735,Rajma Chawal,1,434.22
+640,141,Paneer Butter Masala,5,588.51
+641,162,French Fries,4,328.27
+642,205,Cold Coffee,3,247.01
+643,662,Chicken Biryani,1,419.2
+644,238,Vada Pav,1,554.88
+645,180,French Fries,2,565.64
+646,38,Lassi,4,489.74
+647,191,Tandoori Roti,3,535.91
+648,10,Margherita Pizza,5,393.45
+649,951,Farmhouse Pizza,3,316.26
+650,657,Vada Pav,5,336.83
+651,962,Butter Naan,5,323.37
+652,198,Mango Shake,1,251.96
+653,749,Chole Bhature,3,453.67
+654,15,Chocolate Brownie,3,491.2
+655,582,Rasgulla,2,171.26
+656,877,Gulab Jamun,4,510.03
+657,528,Farmhouse Pizza,1,288.43
+658,98,Dal Tadka,2,328.28
+659,959,Veg Fried Rice,1,215.61
+660,242,Chole Bhature,3,576.1
+661,310,Pav Bhaji,5,85.95
+662,670,Veg Burger,2,112.3
+663,122,Chole Bhature,3,163.05
+664,703,Idli Sambhar,3,438.95
+665,655,Tandoori Roti,3,271.12
+666,227,Veg Fried Rice,2,328.65
+667,466,Chocolate Brownie,5,274.28
+668,719,Vada Pav,4,473.82
+669,822,Rasgulla,2,476.17
+670,697,Cold Coffee,5,534.03
+671,84,Idli Sambhar,4,354.65
+672,371,Veg Biryani,5,138.35
+673,849,Vada Pav,5,185.12
+674,550,Butter Naan,2,250.62
+675,533,Chole Bhature,1,433.75
+676,735,Pav Bhaji,4,127.29
+677,523,Chole Bhature,1,315.78
+678,526,French Fries,4,373.23
+679,573,Chole Bhature,3,456.11
+680,406,Hakka Noodles,1,467.82
+681,593,Veg Biryani,1,300.32
+682,718,Veg Biryani,5,596.94
+683,958,Kathi Roll,1,592.79
+684,484,Chicken Biryani,3,292.61
+685,788,Butter Naan,4,274.72
+686,913,Chicken Burger,4,532.2
+687,929,Chicken Burger,4,121.73
+688,988,Rasgulla,5,149.15
+689,881,Veg Burger,1,172.81
+690,551,Chicken Burger,5,146.22
+691,229,Lassi,1,473.21
+692,306,Chole Bhature,5,300.55
+693,389,Lassi,2,208.71
+694,355,Butter Naan,3,178.01
+695,897,Chocolate Brownie,1,96.75
+696,677,French Fries,5,478.35
+697,905,Kathi Roll,1,205.15
+698,69,Masala Dosa,5,97.46
+699,613,Rasgulla,1,207.26
+700,46,Chicken Burger,4,201.86
+701,223,Cold Coffee,1,152.87
+702,297,Veg Fried Rice,5,245.83
+703,613,Cold Coffee,3,203.19
+704,898,Butter Naan,5,194.94
+705,308,Hakka Noodles,1,369.49
+706,606,Kathi Roll,2,405.52
+707,438,Vada Pav,4,104.38
+708,353,Gulab Jamun,4,488.62
+709,327,Ice Cream Sundae,4,292.29
+710,308,Chicken Burger,2,472.3
+711,485,Veg Fried Rice,2,236.38
+712,725,Butter Naan,4,555.67
+713,576,French Fries,4,369.79
+714,138,Chicken Burger,2,212.6
+715,339,Gulab Jamun,1,559.56
+716,868,Veg Burger,1,358.53
+717,850,Chicken Tikka,1,219.6
+718,690,Momos,5,100.56
+719,75,Chicken Tikka,5,456.64
+720,573,Chicken Tikka,4,188.62
+721,929,Farmhouse Pizza,3,577.65
+722,16,Chicken Tikka,2,580.28
+723,121,Chocolate Brownie,4,555.51
+724,713,Momos,2,286.25
+725,246,Vada Pav,3,483.27
+726,390,Chole Bhature,5,417.34
+727,316,Hakka Noodles,3,346.66
+728,510,Chole Bhature,1,497.46
+729,740,Rajma Chawal,3,555.45
+730,380,Farmhouse Pizza,4,103.77
+731,885,Veg Fried Rice,2,88.43
+732,567,Tandoori Roti,5,381.15
+733,428,Margherita Pizza,2,182.02
+734,236,Chicken Burger,5,513.35
+735,512,Vada Pav,3,213.81
+736,842,Rajma Chawal,4,319.63
+737,751,Mango Shake,3,168.02
+738,738,Vada Pav,4,175.7
+739,911,Vada Pav,1,352.45
+740,860,Samosa,1,571.5
+741,685,Chicken Biryani,1,294.44
+742,863,Gulab Jamun,2,115.34
+743,155,Paneer Butter Masala,2,342.98
+744,383,Chicken Biryani,5,411.62
+745,957,Momos,4,422.83
+746,17,Paneer Butter Masala,5,366.85
+747,13,Paneer Butter Masala,5,455.54
+748,549,Margherita Pizza,1,341.15
+749,715,Rasgulla,4,499.21
+750,932,Dal Tadka,1,557.39
+751,537,Butter Naan,2,179.8
+752,540,Hakka Noodles,3,219.01
+753,407,Veg Biryani,3,578.83
+754,471,Pav Bhaji,2,594.92
+755,232,Margherita Pizza,1,419.94
+756,879,Gulab Jamun,1,128.62
+757,389,Chicken Burger,5,327.52
+758,653,Paneer Butter Masala,2,123.0
+759,866,French Fries,3,374.25
+760,879,Masala Dosa,5,557.96
+761,236,Chicken Tikka,5,327.26
+762,48,Tandoori Roti,1,435.9
+763,288,Kathi Roll,5,373.03
+764,34,Dal Tadka,3,88.14
+765,213,Pav Bhaji,2,471.17
+766,730,Lassi,4,563.01
+767,307,Dal Tadka,5,205.05
+768,855,Samosa,4,432.06
+769,554,Farmhouse Pizza,4,472.92
+770,144,Mango Shake,1,340.41
+771,998,Veg Burger,1,130.8
+772,238,Lassi,1,257.11
+773,788,Momos,5,286.29
+774,793,Farmhouse Pizza,1,409.74
+775,803,Chole Bhature,4,198.63
+776,567,Chicken Burger,4,176.58
+777,600,Rasgulla,4,124.56
+778,634,Margherita Pizza,2,450.82
+779,85,Hakka Noodles,2,277.6
+780,803,Gulab Jamun,2,464.62
+781,325,Veg Burger,1,127.59
+782,966,Margherita Pizza,4,267.16
+783,277,Masala Dosa,2,125.39
+784,442,Chole Bhature,5,368.46
+785,418,Masala Dosa,1,126.6
+786,568,Veg Biryani,5,390.98
+787,333,Samosa,4,86.42
+788,424,Chicken Burger,1,456.92
+789,573,Kathi Roll,2,377.42
+790,174,Rasgulla,4,168.14
+791,276,Margherita Pizza,3,336.42
+792,65,Dal Tadka,4,223.5
+793,307,Rajma Chawal,1,267.78
+794,967,Veg Fried Rice,4,388.78
+795,201,Chole Bhature,1,150.45
+796,7,Chicken Burger,3,517.64
+797,390,Mango Shake,3,308.92
+798,441,Lassi,5,150.78
+799,329,Momos,2,329.09
+800,182,Chicken Burger,3,231.55
+801,712,Gulab Jamun,4,583.24
+802,801,Veg Fried Rice,3,275.55
+803,837,Mango Shake,4,269.81
+804,955,Pav Bhaji,2,387.96
+805,559,Dal Tadka,5,94.0
+806,745,Chole Bhature,2,308.0
+807,299,Lassi,1,505.86
+808,815,Mango Shake,4,429.95
+809,143,Gulab Jamun,3,205.85
+810,675,Butter Naan,4,490.32
+811,76,Chole Bhature,5,329.2
+812,411,Vada Pav,5,560.22
+813,891,Ice Cream Sundae,4,362.7
+814,810,Veg Burger,5,388.79
+815,937,Veg Biryani,1,479.86
+816,674,Rasgulla,3,166.5
+817,628,Chicken Biryani,5,591.48
+818,694,Gulab Jamun,4,582.74
+819,340,Mango Shake,4,135.09
+820,101,Hakka Noodles,2,345.55
+821,532,Vada Pav,5,437.59
+822,227,Chole Bhature,3,283.39
+823,791,Rasgulla,5,439.03
+824,155,Veg Burger,1,331.04
+825,303,French Fries,1,140.36
+826,964,Chocolate Brownie,2,261.13
+827,352,Chole Bhature,2,350.98
+828,357,Rajma Chawal,1,307.85
+829,714,Chole Bhature,3,114.93
+830,46,Mango Shake,1,91.74
+831,352,Gulab Jamun,1,432.11
+832,169,Tandoori Roti,2,348.32
+833,566,Dal Tadka,3,371.12
+834,982,Chole Bhature,2,494.83
+835,645,Dal Tadka,2,413.05
+836,443,Chicken Burger,1,463.44
+837,905,Chicken Tikka,4,387.95
+838,399,Paneer Butter Masala,2,187.01
+839,771,Ice Cream Sundae,1,380.22
+840,819,Samosa,5,177.22
+841,334,Chicken Tikka,4,139.26
+842,687,Samosa,4,354.41
+843,655,Farmhouse Pizza,5,282.09
+844,402,Pav Bhaji,1,260.92
+845,866,Chole Bhature,5,169.71
+846,690,Ice Cream Sundae,3,557.71
+847,605,Veg Biryani,2,242.86
+848,245,Margherita Pizza,1,175.18
+849,711,Butter Naan,5,282.0
+850,611,Butter Naan,5,279.53
+851,191,Rajma Chawal,5,440.59
+852,661,Tandoori Roti,2,368.55
+853,502,Margherita Pizza,2,177.29
+854,863,Chole Bhature,5,107.88
+855,368,Paneer Butter Masala,4,151.0
+856,835,Chicken Burger,5,342.83
+857,507,French Fries,4,296.13
+858,861,Chole Bhature,4,166.97
+859,579,Paneer Butter Masala,2,231.89
+860,282,Veg Fried Rice,5,230.11
+861,800,Chole Bhature,5,466.11
+862,785,Rajma Chawal,5,345.62
+863,587,Masala Dosa,3,483.06
+864,844,Veg Burger,5,507.76
+865,43,Cold Coffee,4,364.1
+866,436,Masala Dosa,2,234.81
+867,34,Chole Bhature,3,261.26
+868,837,Veg Biryani,4,529.95
+869,121,Cold Coffee,2,189.14
+870,756,Pav Bhaji,3,527.75
+871,625,Gulab Jamun,4,166.31
+872,143,Mango Shake,2,503.04
+873,825,Chicken Biryani,5,262.42
+874,288,Momos,5,167.56
+875,721,Margherita Pizza,3,377.82
+876,976,Samosa,5,592.45
+877,696,Lassi,1,150.51
+878,769,Mango Shake,4,557.76
+879,284,Samosa,2,444.74
+880,136,Veg Fried Rice,2,449.93
+881,849,Veg Fried Rice,4,334.52
+882,592,Gulab Jamun,3,406.46
+883,385,Chole Bhature,1,409.49
+884,902,Cold Coffee,1,289.48
+885,768,Hakka Noodles,3,316.44
+886,500,Farmhouse Pizza,5,81.29
+887,793,Samosa,1,460.08
+888,470,Gulab Jamun,3,522.06
+889,815,Vada Pav,4,193.27
+890,440,Lassi,2,337.25
+891,331,Lassi,3,255.63
+892,592,Butter Naan,5,523.26
+893,808,Farmhouse Pizza,1,103.89
+894,642,Mango Shake,4,88.47
+895,952,Samosa,2,309.47
+896,1,French Fries,2,597.76
+897,932,Butter Naan,3,162.67
+898,956,Kathi Roll,3,128.54
+899,370,Hakka Noodles,1,273.36
+900,926,Gulab Jamun,2,106.93
+901,641,Margherita Pizza,2,303.2
+902,94,Ice Cream Sundae,1,80.56
+903,489,Veg Biryani,2,388.71
+904,532,Rasgulla,4,84.83
+905,713,Farmhouse Pizza,1,593.84
+906,433,Ice Cream Sundae,2,328.4
+907,235,Chicken Burger,1,460.0
+908,105,Masala Dosa,3,271.13
+909,307,Butter Naan,4,482.2
+910,772,Samosa,2,413.62
+911,694,Butter Naan,1,355.86
+912,9,Momos,2,308.85
+913,740,Chicken Tikka,2,558.34
+914,631,Rasgulla,4,527.18
+915,89,Kathi Roll,1,152.81
+916,127,Pav Bhaji,4,262.8
+917,440,Farmhouse Pizza,2,208.85
+918,661,Veg Biryani,2,367.77
+919,615,Chocolate Brownie,5,228.16
+920,964,Ice Cream Sundae,1,520.9
+921,675,Kathi Roll,3,186.83
+922,622,Idli Sambhar,2,468.88
+923,303,Gulab Jamun,1,487.58
+924,813,Veg Fried Rice,4,280.66
+925,247,Rajma Chawal,5,116.93
+926,911,Paneer Butter Masala,3,565.64
+927,136,Chicken Burger,5,298.85
+928,560,Rasgulla,2,476.62
+929,978,Cold Coffee,1,88.68
+930,70,Paneer Butter Masala,3,192.19
+931,945,Chicken Biryani,4,343.44
+932,644,Ice Cream Sundae,5,478.9
+933,434,Ice Cream Sundae,4,122.86
+934,550,Vada Pav,5,159.39
+935,86,Margherita Pizza,1,345.88
+936,209,Mango Shake,2,358.92
+937,401,Pav Bhaji,1,241.29
+938,448,Chocolate Brownie,2,110.11
+939,89,Tandoori Roti,4,140.31
+940,627,Momos,1,240.83
+941,760,Rasgulla,2,142.11
+942,725,Butter Naan,1,165.19
+943,976,Veg Burger,5,348.96
+944,843,Chocolate Brownie,3,166.82
+945,130,Chocolate Brownie,3,461.13
+946,121,Cold Coffee,1,254.21
+947,440,Hakka Noodles,5,113.21
+948,730,Pav Bhaji,1,338.0
+949,524,Veg Burger,1,339.8
+950,581,Dal Tadka,3,161.8
+951,792,Masala Dosa,5,430.54
+952,119,Veg Fried Rice,5,81.34
+953,880,Samosa,1,207.17
+954,484,Veg Burger,4,558.52
+955,184,Tandoori Roti,1,367.49
+956,936,Ice Cream Sundae,4,196.75
+957,255,French Fries,3,221.05
+958,80,Pav Bhaji,3,142.09
+959,690,Kathi Roll,1,173.26
+960,824,Idli Sambhar,1,576.12
+961,71,Kathi Roll,4,530.34
+962,793,Samosa,3,250.2
+963,567,Chole Bhature,1,271.84
+964,299,Pav Bhaji,3,464.58
+965,249,Chole Bhature,3,387.68
+966,506,Cold Coffee,2,460.88
+967,560,Cold Coffee,2,158.29
+968,955,French Fries,1,201.16
+969,355,Gulab Jamun,1,574.51
+970,2,Cold Coffee,4,521.48
+971,745,Margherita Pizza,1,186.7
+972,244,French Fries,4,579.82
+973,996,Butter Naan,3,128.37
+974,944,Veg Fried Rice,5,294.79
+975,918,Veg Burger,4,586.77
+976,87,Pav Bhaji,1,342.82
+977,653,Lassi,4,118.91
+978,582,Chicken Biryani,4,424.47
+979,134,Veg Fried Rice,3,215.72
+980,323,Tandoori Roti,4,444.38
+981,754,Farmhouse Pizza,3,315.43
+982,240,Veg Biryani,2,150.78
+983,789,Pav Bhaji,1,160.81
+984,169,Chole Bhature,4,243.3
+985,124,Vada Pav,3,581.61
+986,213,Chole Bhature,3,320.94
+987,873,Masala Dosa,1,161.96
+988,703,Margherita Pizza,5,100.97
+989,856,Samosa,3,157.13
+990,729,Veg Fried Rice,3,286.05
+991,51,Rasgulla,3,215.29
+992,179,Paneer Butter Masala,4,524.39
+993,570,Chocolate Brownie,5,209.92
+994,474,Masala Dosa,2,143.16
+995,64,Lassi,2,147.97
+996,844,Chicken Burger,3,436.87
+997,961,Gulab Jamun,1,382.81
+998,266,Tandoori Roti,1,91.34
+999,67,Chicken Tikka,4,500.84
+1000,95,Kathi Roll,3,143.71
+1001,965,Chole Bhature,1,167.35
+1002,588,French Fries,4,337.99
+1003,392,Rasgulla,4,169.86
+1004,220,Tandoori Roti,2,222.99
+1005,457,Kathi Roll,2,98.02
+1006,635,Momos,2,416.58
+1007,511,French Fries,5,329.1
+1008,90,Hakka Noodles,4,151.36
+1009,205,Gulab Jamun,5,209.56
+1010,822,Vada Pav,1,594.49
+1011,801,Ice Cream Sundae,3,329.44
+1012,801,Rajma Chawal,3,554.59
+1013,515,Farmhouse Pizza,4,220.63
+1014,27,Farmhouse Pizza,5,193.89
+1015,918,Mango Shake,3,110.47
+1016,484,Idli Sambhar,3,478.76
+1017,239,Dal Tadka,1,208.89
+1018,247,Hakka Noodles,5,504.47
+1019,940,Chocolate Brownie,1,477.31
+1020,971,Veg Fried Rice,5,520.18
+1021,817,Chicken Burger,3,566.31
+1022,866,Dal Tadka,2,203.01
+1023,326,Mango Shake,3,555.27
+1024,29,Ice Cream Sundae,3,572.73
+1025,578,Butter Naan,5,573.15
+1026,857,Mango Shake,4,361.9
+1027,180,Rajma Chawal,1,126.93
+1028,239,Momos,2,90.36
+1029,490,Paneer Butter Masala,3,557.31
+1030,207,Mango Shake,2,257.19
+1031,182,Tandoori Roti,3,110.97
+1032,152,Pav Bhaji,2,482.67
+1033,867,Idli Sambhar,3,579.49
+1034,383,Ice Cream Sundae,4,384.73
+1035,345,Margherita Pizza,3,150.95
+1036,162,Chocolate Brownie,4,491.76
+1037,984,Rajma Chawal,3,170.59
+1038,992,Vada Pav,5,489.24
+1039,229,Rasgulla,5,503.52
+1040,388,Margherita Pizza,3,146.22
+1041,747,Paneer Butter Masala,5,283.63
+1042,790,Pav Bhaji,1,174.68
+1043,326,Tandoori Roti,5,194.87
+1044,580,Masala Dosa,4,153.13
+1045,764,Veg Biryani,2,260.34
+1046,328,Dal Tadka,1,507.26
+1047,687,Gulab Jamun,3,312.25
+1048,272,Chicken Tikka,2,440.45
+1049,359,Hakka Noodles,1,454.62
+1050,50,Chicken Burger,4,460.94
+1051,993,Dal Tadka,4,336.4
+1052,388,Veg Burger,5,275.18
+1053,849,Rajma Chawal,5,418.5
+1054,704,Veg Fried Rice,2,314.67
+1055,819,Samosa,1,233.35
+1056,327,Hakka Noodles,1,118.58
+1057,175,Kathi Roll,4,163.67
+1058,77,Vada Pav,1,255.73
+1059,629,Kathi Roll,4,446.34
+1060,442,Gulab Jamun,2,395.81
+1061,445,Dal Tadka,1,132.65
+1062,211,Chicken Tikka,4,442.54
+1063,740,Tandoori Roti,5,217.94
+1064,289,Margherita Pizza,2,129.88
+1065,403,Pav Bhaji,5,516.72
+1066,158,Chicken Biryani,3,81.98
+1067,90,Margherita Pizza,5,329.77
+1068,100,Paneer Butter Masala,2,168.83
+1069,299,Veg Biryani,4,518.76
+1070,316,Mango Shake,4,324.89
+1071,917,Rasgulla,3,127.39
+1072,558,Chicken Burger,2,272.93
+1073,391,Veg Burger,2,311.8
+1074,270,Chole Bhature,4,216.97
+1075,858,Hakka Noodles,5,112.05
+1076,771,Ice Cream Sundae,1,124.57
+1077,353,Mango Shake,5,295.27
+1078,775,Pav Bhaji,2,367.87
+1079,861,Chicken Burger,5,297.69
+1080,549,Rasgulla,4,377.81
+1081,242,Rajma Chawal,3,121.06
+1082,925,Samosa,1,341.09
+1083,923,Idli Sambhar,5,432.32
+1084,636,Butter Naan,1,573.61
+1085,460,Dal Tadka,2,585.53
+1086,828,Chicken Tikka,2,102.19
+1087,81,Rasgulla,4,185.0
+1088,843,Gulab Jamun,2,513.74
+1089,265,Farmhouse Pizza,1,125.25
+1090,570,Chicken Burger,5,249.59
+1091,283,Idli Sambhar,4,556.92
+1092,13,Mango Shake,5,385.54
+1093,801,French Fries,1,295.51
+1094,152,Pav Bhaji,5,382.99
+1095,988,Masala Dosa,1,372.6
+1096,104,Mango Shake,3,531.09
+1097,902,Veg Burger,4,217.35
+1098,671,Rajma Chawal,5,396.66
+1099,39,Dal Tadka,3,289.55
+1100,634,Momos,4,100.17
+1101,911,Kathi Roll,3,439.07
+1102,51,Chocolate Brownie,4,558.83
+1103,919,Veg Burger,1,255.69
+1104,813,Margherita Pizza,3,225.78
+1105,504,Samosa,1,585.7
+1106,234,Butter Naan,3,586.59
+1107,454,Cold Coffee,3,220.1
+1108,427,Momos,1,177.73
+1109,217,Tandoori Roti,4,465.29
+1110,778,Idli Sambhar,3,506.93
+1111,528,Mango Shake,2,114.12
+1112,727,Idli Sambhar,4,150.54
+1113,872,Idli Sambhar,5,95.05
+1114,198,Kathi Roll,2,515.23
+1115,256,Chicken Biryani,4,106.29
+1116,370,Ice Cream Sundae,2,222.47
+1117,844,Chole Bhature,5,286.41
+1118,946,Masala Dosa,1,205.81
+1119,501,Momos,4,172.34
+1120,892,Rajma Chawal,5,366.69
+1121,353,Dal Tadka,3,469.46
+1122,706,Veg Biryani,3,94.27
+1123,51,Dal Tadka,5,485.51
+1124,220,Samosa,2,416.64
+1125,694,Chicken Tikka,3,418.83
+1126,526,Paneer Butter Masala,1,326.53
+1127,136,Gulab Jamun,2,392.59
+1128,9,Veg Fried Rice,3,396.34
+1129,966,Margherita Pizza,3,300.38
+1130,386,Samosa,3,318.68
+1131,224,Chole Bhature,3,432.14
+1132,845,Momos,4,383.93
+1133,8,Idli Sambhar,3,371.96
+1134,609,Momos,3,235.21
+1135,111,Rajma Chawal,1,254.87
+1136,284,Gulab Jamun,3,527.98
+1137,268,Gulab Jamun,3,177.95
+1138,530,Cold Coffee,2,547.84
+1139,825,Samosa,5,290.13
+1140,328,Rasgulla,2,455.07
+1141,672,Rajma Chawal,3,214.9
+1142,429,Chicken Burger,4,463.1
+1143,598,Ice Cream Sundae,5,504.33
+1144,352,Chocolate Brownie,2,436.89
+1145,654,Mango Shake,4,551.39
+1146,688,Veg Burger,5,236.1
+1147,175,Lassi,5,174.19
+1148,100,Rajma Chawal,2,465.28
+1149,743,Mango Shake,5,476.72
+1150,188,Rasgulla,3,420.31
+1151,228,Veg Burger,2,466.99
+1152,315,French Fries,3,273.27
+1153,600,Margherita Pizza,4,522.63
+1154,482,Chicken Biryani,5,381.76
+1155,636,Veg Biryani,4,542.5
+1156,513,Masala Dosa,4,355.52
+1157,424,Chicken Biryani,2,151.43
+1158,206,Farmhouse Pizza,4,593.34
+1159,915,Tandoori Roti,4,154.48
+1160,884,Ice Cream Sundae,2,485.05
+1161,500,Farmhouse Pizza,2,242.98
+1162,60,Paneer Butter Masala,4,222.23
+1163,780,Cold Coffee,2,379.67
+1164,163,Rajma Chawal,1,147.29
+1165,445,Gulab Jamun,4,289.76
+1166,989,Rajma Chawal,4,82.43
+1167,547,Chicken Tikka,3,574.04
+1168,914,Farmhouse Pizza,5,179.1
+1169,693,Paneer Butter Masala,2,197.66
+1170,899,Veg Burger,3,147.04
+1171,393,Idli Sambhar,5,239.18
+1172,67,Lassi,1,235.07
+1173,298,Chole Bhature,5,390.11
+1174,346,French Fries,2,258.22
+1175,924,Rajma Chawal,3,470.06
+1176,169,Tandoori Roti,4,89.94
+1177,230,Chocolate Brownie,2,189.82
+1178,23,Pav Bhaji,5,167.87
+1179,376,Ice Cream Sundae,1,275.1
+1180,656,Hakka Noodles,5,404.03
+1181,609,Chicken Biryani,1,419.86
+1182,21,Chicken Biryani,1,296.72
+1183,390,Masala Dosa,5,211.42
+1184,719,Butter Naan,2,441.5
+1185,646,Paneer Butter Masala,3,298.85
+1186,104,Rasgulla,5,220.39
+1187,621,Ice Cream Sundae,2,297.79
+1188,921,Masala Dosa,5,453.76
+1189,121,Margherita Pizza,1,488.08
+1190,510,Chicken Tikka,5,183.87
+1191,270,Lassi,5,586.02
+1192,367,Ice Cream Sundae,4,233.58
+1193,41,Vada Pav,4,553.39
+1194,705,Tandoori Roti,4,251.91
+1195,3,Paneer Butter Masala,1,551.58
+1196,856,Pav Bhaji,4,157.56
+1197,93,Cold Coffee,5,119.03
+1198,741,Masala Dosa,3,415.06
+1199,468,Margherita Pizza,3,321.42
+1200,103,Lassi,2,534.55
+1201,873,Margherita Pizza,3,496.83
+1202,321,French Fries,1,129.4
+1203,777,Kathi Roll,1,85.03
+1204,142,Rasgulla,2,250.9
+1205,916,Chole Bhature,5,219.52
+1206,751,Veg Biryani,3,503.78
+1207,188,Masala Dosa,4,288.13
+1208,468,Hakka Noodles,4,438.75
+1209,490,Mango Shake,4,417.4
+1210,817,Dal Tadka,1,148.91
+1211,744,Chicken Biryani,2,133.93
+1212,934,Pav Bhaji,4,497.18
+1213,695,Chole Bhature,2,397.89
+1214,798,Veg Burger,5,94.98
+1215,701,Kathi Roll,2,331.2
+1216,500,Masala Dosa,4,309.16
+1217,65,Hakka Noodles,3,86.43
+1218,890,Rasgulla,5,479.11
+1219,591,Chocolate Brownie,5,196.47
+1220,979,Rasgulla,3,349.93
+1221,705,Ice Cream Sundae,5,129.53
+1222,678,Chocolate Brownie,2,330.6
+1223,680,Rasgulla,4,157.3
+1224,847,Vada Pav,5,108.37
+1225,659,Tandoori Roti,2,342.9
+1226,481,Samosa,4,532.1
+1227,77,Cold Coffee,4,246.73
+1228,339,Hakka Noodles,1,343.6
+1229,564,Gulab Jamun,4,289.7
+1230,241,Veg Biryani,4,310.98
+1231,587,Chole Bhature,1,525.43
+1232,458,Farmhouse Pizza,1,589.95
+1233,764,Gulab Jamun,1,133.37
+1234,423,Chicken Biryani,5,365.53
+1235,846,Veg Biryani,5,580.85
+1236,653,Margherita Pizza,5,372.41
+1237,671,Rasgulla,4,574.18
+1238,373,Lassi,1,504.63
+1239,865,Chole Bhature,3,371.28
+1240,635,Momos,4,452.66
+1241,373,Ice Cream Sundae,4,139.29
+1242,778,Rasgulla,2,81.14
+1243,364,Lassi,3,364.8
+1244,383,Ice Cream Sundae,1,103.8
+1245,169,Rajma Chawal,2,507.36
+1246,761,Chocolate Brownie,4,135.62
+1247,626,Chicken Tikka,2,142.79
+1248,873,Chicken Burger,2,317.66
+1249,801,Chicken Tikka,3,136.04
+1250,425,Chicken Biryani,5,144.07
+1251,914,Chole Bhature,4,422.4
+1252,980,Idli Sambhar,2,581.2
+1253,5,Idli Sambhar,1,367.68
+1254,444,Lassi,5,331.12
+1255,521,Cold Coffee,2,439.75
+1256,178,Chocolate Brownie,2,133.85
+1257,674,Momos,5,539.0
+1258,517,Kathi Roll,4,297.71
+1259,624,Tandoori Roti,2,222.27
+1260,987,Farmhouse Pizza,3,315.48
+1261,137,Butter Naan,4,393.31
+1262,908,Chocolate Brownie,5,235.43
+1263,719,Vada Pav,3,450.17
+1264,958,Vada Pav,2,184.46
+1265,640,Ice Cream Sundae,3,437.04
+1266,944,Rasgulla,2,590.29
+1267,666,Dal Tadka,5,362.1
+1268,653,Farmhouse Pizza,1,475.6
+1269,576,Rajma Chawal,5,376.73
+1270,684,Ice Cream Sundae,4,430.61
+1271,916,Lassi,5,228.68
+1272,868,French Fries,1,351.82
+1273,26,Chicken Burger,2,107.59
+1274,58,Chicken Tikka,3,470.1
+1275,165,Margherita Pizza,3,156.14
+1276,64,Ice Cream Sundae,3,186.08
+1277,555,Chicken Biryani,3,503.29
+1278,105,Momos,5,529.72
+1279,761,Gulab Jamun,5,282.22
+1280,524,Mango Shake,3,440.33
+1281,49,Tandoori Roti,4,281.53
+1282,980,Mango Shake,3,582.23
+1283,56,Paneer Butter Masala,3,185.61
+1284,890,Cold Coffee,4,511.59
+1285,934,Gulab Jamun,3,472.66
+1286,560,Chocolate Brownie,5,182.16
+1287,743,Chicken Tikka,3,313.38
+1288,700,Veg Biryani,2,580.49
+1289,753,Idli Sambhar,1,276.14
+1290,439,Hakka Noodles,5,217.4
+1291,165,Pav Bhaji,3,82.94
+1292,478,Ice Cream Sundae,2,100.77
+1293,951,Farmhouse Pizza,5,106.44
+1294,955,Gulab Jamun,5,518.43
+1295,309,Rajma Chawal,5,366.08
+1296,75,Mango Shake,3,353.21
+1297,980,Dal Tadka,5,115.45
+1298,518,Dal Tadka,4,362.4
+1299,414,Veg Biryani,3,195.02
+1300,219,Rasgulla,3,252.15
+1301,301,Chicken Tikka,5,355.86
+1302,575,Lassi,1,139.66
+1303,355,Chole Bhature,2,550.34
+1304,629,Tandoori Roti,5,206.79
+1305,41,Rasgulla,3,278.31
+1306,816,Masala Dosa,4,213.43
+1307,742,Margherita Pizza,1,553.89
+1308,842,Cold Coffee,3,347.44
+1309,521,Chole Bhature,4,102.8
+1310,920,Gulab Jamun,2,246.56
+1311,85,Masala Dosa,2,585.25
+1312,792,Vada Pav,5,83.81
+1313,68,Chicken Tikka,2,529.77
+1314,435,Lassi,1,186.9
+1315,849,Ice Cream Sundae,4,416.21
+1316,963,Veg Biryani,2,92.35
+1317,735,Farmhouse Pizza,1,125.51
+1318,56,Dal Tadka,3,370.2
+1319,589,Lassi,2,553.71
+1320,418,Chicken Burger,4,407.71
+1321,444,Farmhouse Pizza,1,282.54
+1322,122,Vada Pav,1,413.54
+1323,634,Veg Biryani,5,103.67
+1324,869,Veg Biryani,3,562.58
+1325,109,Margherita Pizza,3,395.41
+1326,289,Cold Coffee,4,278.34
+1327,842,Rasgulla,1,326.47
+1328,547,Veg Fried Rice,2,468.31
+1329,816,Mango Shake,5,233.39
+1330,650,Butter Naan,3,432.19
+1331,937,Mango Shake,3,577.84
+1332,12,Vada Pav,5,153.51
+1333,43,Paneer Butter Masala,5,390.26
+1334,551,Vada Pav,1,238.44
+1335,767,Chocolate Brownie,3,190.1
+1336,928,Gulab Jamun,5,154.08
+1337,189,Veg Fried Rice,5,514.07
+1338,199,Masala Dosa,2,428.91
+1339,581,Samosa,1,522.72
+1340,955,Vada Pav,4,415.23
+1341,75,Margherita Pizza,1,210.36
+1342,203,Chocolate Brownie,5,333.34
+1343,339,Veg Burger,2,429.07
+1344,241,Masala Dosa,3,402.15
+1345,922,Chicken Tikka,3,332.65
+1346,337,Momos,3,440.6
+1347,157,Pav Bhaji,5,269.54
+1348,324,French Fries,2,82.51
+1349,253,Mango Shake,2,450.34
+1350,657,French Fries,3,516.86
+1351,138,Rasgulla,3,536.5
+1352,474,Chole Bhature,3,482.88
+1353,499,Vada Pav,1,171.4
+1354,622,Veg Biryani,3,526.53
+1355,144,Kathi Roll,5,182.14
+1356,752,Kathi Roll,1,458.26
+1357,914,Paneer Butter Masala,5,408.45
+1358,833,Pav Bhaji,5,290.67
+1359,605,Chicken Tikka,1,366.83
+1360,557,Kathi Roll,5,325.49
+1361,794,Butter Naan,3,284.1
+1362,913,Cold Coffee,5,461.28
+1363,298,Butter Naan,4,340.58
+1364,93,Chicken Burger,3,341.13
+1365,679,Veg Fried Rice,5,435.76
+1366,776,Idli Sambhar,2,312.03
+1367,184,Pav Bhaji,5,422.89
+1368,991,Butter Naan,4,568.37
+1369,42,Veg Fried Rice,4,200.51
+1370,271,Veg Burger,2,102.26
+1371,212,Idli Sambhar,3,281.81
+1372,940,Chole Bhature,1,100.75
+1373,665,Farmhouse Pizza,1,445.94
+1374,534,Gulab Jamun,3,514.13
+1375,270,Pav Bhaji,5,376.48
+1376,386,Gulab Jamun,4,269.95
+1377,670,Kathi Roll,1,348.66
+1378,386,Tandoori Roti,2,348.51
+1379,362,Lassi,3,333.17
+1380,494,Kathi Roll,5,83.43
+1381,904,Butter Naan,4,166.12
+1382,79,Idli Sambhar,3,189.99
+1383,192,Dal Tadka,3,393.05
+1384,837,Masala Dosa,2,295.6
+1385,339,Chocolate Brownie,1,330.39
+1386,491,Rajma Chawal,2,387.21
+1387,663,Lassi,4,91.67
+1388,45,Butter Naan,5,388.02
+1389,138,Gulab Jamun,5,100.38
+1390,587,Butter Naan,1,166.5
+1391,945,Dal Tadka,5,578.28
+1392,614,Pav Bhaji,1,536.82
+1393,746,Rasgulla,3,572.57
+1394,222,Chole Bhature,5,596.24
+1395,889,Rajma Chawal,2,194.07
+1396,421,Momos,2,493.2
+1397,841,Cold Coffee,2,404.07
+1398,524,Hakka Noodles,2,456.58
+1399,351,Tandoori Roti,4,390.2
+1400,71,Veg Fried Rice,4,280.44
+1401,112,Paneer Butter Masala,2,351.81
+1402,932,Idli Sambhar,4,509.79
+1403,621,Masala Dosa,2,327.45
+1404,630,Momos,1,536.43
+1405,545,Idli Sambhar,1,128.46
+1406,676,Butter Naan,5,360.43
+1407,2,Kathi Roll,4,351.46
+1408,380,Samosa,1,442.77
+1409,440,Veg Fried Rice,4,490.57
+1410,391,Veg Burger,5,498.4
+1411,930,Cold Coffee,5,130.81
+1412,138,Hakka Noodles,4,478.25
+1413,932,Samosa,1,227.3
+1414,898,Vada Pav,4,214.06
+1415,6,Ice Cream Sundae,1,380.55
+1416,121,Idli Sambhar,1,275.02
+1417,211,Ice Cream Sundae,3,292.6
+1418,110,Butter Naan,4,418.82
+1419,260,Hakka Noodles,5,300.25
+1420,375,Momos,3,595.74
+1421,407,Cold Coffee,2,294.88
+1422,803,Vada Pav,4,172.93
+1423,573,Vada Pav,4,211.96
+1424,315,Pav Bhaji,3,482.58
+1425,408,Chocolate Brownie,2,524.6
+1426,676,Masala Dosa,2,312.23
+1427,717,Dal Tadka,1,191.52
+1428,411,Mango Shake,3,496.44
+1429,629,Ice Cream Sundae,1,163.58
+1430,988,Gulab Jamun,1,498.27
+1431,844,Butter Naan,4,561.45
+1432,446,Veg Biryani,1,216.81
+1433,380,Veg Biryani,5,99.63
+1434,394,Tandoori Roti,4,399.26
+1435,534,Margherita Pizza,5,109.88
+1436,793,Lassi,2,412.95
+1437,450,Paneer Butter Masala,2,522.3
+1438,954,Mango Shake,5,228.72
+1439,35,Mango Shake,5,345.48
+1440,716,Veg Fried Rice,5,168.13
+1441,37,Veg Burger,2,420.61
+1442,1000,Dal Tadka,1,598.34
+1443,799,Chicken Burger,3,428.22
+1444,416,Pav Bhaji,2,349.23
+1445,755,Ice Cream Sundae,1,557.97
+1446,563,Margherita Pizza,5,555.8
+1447,357,Veg Burger,3,197.67
+1448,987,Chicken Tikka,4,563.45
+1449,589,Paneer Butter Masala,3,171.02
+1450,519,Masala Dosa,5,117.64
+1451,302,Farmhouse Pizza,1,497.53
+1452,980,Hakka Noodles,5,502.84
+1453,589,Hakka Noodles,4,582.35
+1454,577,Rajma Chawal,2,473.89
+1455,985,Cold Coffee,4,434.43
+1456,919,Pav Bhaji,1,330.62
+1457,265,Veg Biryani,4,409.5
+1458,226,Rasgulla,2,496.08
+1459,423,Veg Burger,5,358.54
+1460,718,Lassi,3,209.09
+1461,96,Chicken Burger,3,119.53
+1462,954,Dal Tadka,4,243.21
+1463,224,Kathi Roll,5,219.92
+1464,970,Chocolate Brownie,2,339.48
+1465,205,Veg Fried Rice,2,533.83
+1466,212,Veg Fried Rice,2,514.17
+1467,857,Momos,3,161.12
+1468,110,Masala Dosa,1,431.42
+1469,680,Rajma Chawal,5,83.44
+1470,878,Vada Pav,1,520.97
+1471,381,Momos,3,336.02
+1472,903,Kathi Roll,5,531.76
+1473,503,Dal Tadka,5,225.74
+1474,228,Cold Coffee,5,146.69
+1475,539,Mango Shake,4,328.73
+1476,554,Chicken Biryani,5,260.59
+1477,882,Rasgulla,2,317.74
+1478,124,Ice Cream Sundae,5,319.24
+1479,706,Paneer Butter Masala,1,430.53
+1480,389,Pav Bhaji,1,249.23
+1481,628,Samosa,3,177.32
+1482,270,Veg Fried Rice,3,325.1
+1483,628,Farmhouse Pizza,3,175.64
+1484,435,Chicken Tikka,4,444.37
+1485,382,Veg Burger,4,225.41
+1486,185,Pav Bhaji,2,589.22
+1487,703,Veg Fried Rice,1,454.82
+1488,824,Veg Fried Rice,5,304.75
+1489,391,Chicken Tikka,2,496.02
+1490,757,Butter Naan,4,498.95
+1491,181,French Fries,4,149.93
+1492,915,Samosa,5,357.67
+1493,324,Mango Shake,4,236.02
+1494,576,Samosa,5,104.81
+1495,102,Ice Cream Sundae,2,111.22
+1496,834,Hakka Noodles,4,516.27
+1497,99,Chole Bhature,3,215.08
+1498,369,Vada Pav,5,564.56
+1499,264,Veg Burger,1,294.12
+1500,360,Samosa,5,183.46
+1501,590,Gulab Jamun,5,170.76
+1502,800,Margherita Pizza,3,249.05
+1503,523,Rajma Chawal,4,542.61
+1504,391,Momos,3,321.15
+1505,980,Butter Naan,2,413.1
+1506,951,Farmhouse Pizza,4,408.26
+1507,586,Chicken Burger,1,121.14
+1508,352,Veg Fried Rice,3,244.78
+1509,299,Ice Cream Sundae,3,394.8
+1510,405,Hakka Noodles,4,486.11
+1511,962,Veg Burger,5,350.89
+1512,462,French Fries,2,175.62
+1513,24,Butter Naan,2,424.25
+1514,964,Chocolate Brownie,1,189.5
+1515,407,Masala Dosa,1,113.17
+1516,900,Rajma Chawal,5,107.99
+1517,790,Chicken Burger,5,477.8
+1518,86,Masala Dosa,3,401.41
+1519,87,Gulab Jamun,4,240.87
+1520,254,Chocolate Brownie,3,310.44
+1521,130,Butter Naan,5,516.03
+1522,30,Chicken Biryani,3,527.39
+1523,334,Samosa,4,322.94
+1524,892,Vada Pav,3,365.24
+1525,139,Ice Cream Sundae,5,172.06
+1526,612,Chole Bhature,5,306.19
+1527,656,Gulab Jamun,5,241.02
+1528,356,Rajma Chawal,5,198.11
+1529,92,Chole Bhature,3,270.21
+1530,267,Butter Naan,3,85.49
+1531,536,Lassi,2,258.82
+1532,481,Vada Pav,1,437.64
+1533,504,Cold Coffee,4,235.8
+1534,785,French Fries,3,390.44
+1535,816,Paneer Butter Masala,5,274.29
+1536,422,Kathi Roll,5,307.3
+1537,256,Dal Tadka,4,510.78
+1538,226,Hakka Noodles,1,299.56
+1539,246,Idli Sambhar,5,499.94
+1540,702,Hakka Noodles,3,417.2
+1541,545,Mango Shake,3,294.71
+1542,874,Veg Biryani,2,151.04
+1543,114,Gulab Jamun,4,401.22
+1544,279,Ice Cream Sundae,5,335.84
+1545,329,Paneer Butter Masala,2,105.81
+1546,548,Paneer Butter Masala,2,585.61
+1547,289,Hakka Noodles,2,451.9
+1548,745,Paneer Butter Masala,2,126.9
+1549,16,Rajma Chawal,2,257.79
+1550,320,Mango Shake,4,598.94
+1551,475,Ice Cream Sundae,1,251.73
+1552,864,Cold Coffee,2,109.14
+1553,795,Chicken Burger,1,362.46
+1554,186,Chicken Tikka,3,504.97
+1555,849,Paneer Butter Masala,1,586.79
+1556,732,Veg Fried Rice,4,481.04
+1557,454,Veg Fried Rice,1,183.57
+1558,753,Cold Coffee,1,350.99
+1559,214,Rajma Chawal,4,434.35
+1560,320,Tandoori Roti,3,162.48
+1561,746,Chicken Biryani,5,350.88
+1562,260,Rajma Chawal,3,183.34
+1563,909,Chicken Biryani,2,586.1
+1564,242,Gulab Jamun,4,248.75
+1565,172,Mango Shake,3,384.04
+1566,406,Mango Shake,2,84.64
+1567,44,Pav Bhaji,4,437.97
+1568,159,Veg Burger,1,209.34
+1569,512,Veg Biryani,5,255.98
+1570,993,Cold Coffee,1,111.08
+1571,661,Butter Naan,5,491.56
+1572,129,Rajma Chawal,2,244.7
+1573,572,Mango Shake,3,498.87
+1574,450,Chocolate Brownie,2,91.1
+1575,387,Veg Burger,2,210.36
+1576,41,Rajma Chawal,4,370.69
+1577,556,Ice Cream Sundae,4,178.68
+1578,192,Vada Pav,3,248.31
+1579,480,Hakka Noodles,5,555.53
+1580,568,Dal Tadka,1,356.19
+1581,461,Margherita Pizza,3,361.64
+1582,465,Paneer Butter Masala,5,277.1
+1583,190,Kathi Roll,1,402.26
+1584,373,Cold Coffee,5,204.17
+1585,739,Veg Biryani,5,505.91
+1586,195,Idli Sambhar,4,478.18
+1587,158,Momos,3,247.75
+1588,657,Farmhouse Pizza,1,130.05
+1589,675,Veg Biryani,1,514.3
+1590,133,Dal Tadka,1,185.08
+1591,498,Chicken Tikka,1,96.54
+1592,658,Lassi,4,422.12
+1593,539,Momos,5,213.09
+1594,376,Veg Fried Rice,5,453.28
+1595,14,Tandoori Roti,2,420.99
+1596,951,Kathi Roll,1,323.39
+1597,655,Chicken Biryani,3,370.17
+1598,961,Kathi Roll,4,507.45
+1599,814,Ice Cream Sundae,1,508.29
+1600,273,Idli Sambhar,1,461.84
+1601,855,Margherita Pizza,1,571.19
+1602,984,Idli Sambhar,1,132.64
+1603,237,Vada Pav,4,178.52
+1604,539,Rasgulla,2,376.41
+1605,971,Dal Tadka,5,469.58
+1606,426,Chocolate Brownie,1,478.47
+1607,591,Veg Burger,4,445.33
+1608,438,Kathi Roll,1,166.74
+1609,185,Vada Pav,4,342.44
+1610,674,Dal Tadka,5,599.19
+1611,454,Tandoori Roti,3,549.29
+1612,564,Farmhouse Pizza,3,294.42
+1613,649,French Fries,3,396.37
+1614,577,Vada Pav,2,275.03
+1615,564,Tandoori Roti,3,267.2
+1616,464,Chole Bhature,4,80.1
+1617,36,Margherita Pizza,5,88.48
+1618,139,Kathi Roll,3,83.42
+1619,228,Chicken Tikka,3,91.28
+1620,842,Ice Cream Sundae,3,557.94
+1621,524,Vada Pav,5,561.48
+1622,159,Masala Dosa,1,319.39
+1623,160,Butter Naan,3,270.88
+1624,597,Veg Fried Rice,2,213.25
+1625,308,Veg Biryani,5,287.9
+1626,940,Chicken Tikka,1,456.26
+1627,812,Rajma Chawal,2,333.9
+1628,921,Ice Cream Sundae,5,506.15
+1629,98,Momos,3,99.43
+1630,828,Pav Bhaji,4,120.81
+1631,58,Tandoori Roti,3,260.92
+1632,837,French Fries,4,563.73
+1633,124,Samosa,2,468.79
+1634,870,Momos,1,409.62
+1635,648,Chicken Burger,1,238.49
+1636,43,Farmhouse Pizza,5,373.75
+1637,335,Idli Sambhar,2,159.66
+1638,690,Chocolate Brownie,4,584.94
+1639,771,Momos,5,342.46
+1640,228,French Fries,3,488.91
+1641,152,Butter Naan,3,122.92
+1642,586,Chocolate Brownie,1,365.04
+1643,269,Veg Biryani,4,340.95
+1644,793,Ice Cream Sundae,2,476.26
+1645,493,Vada Pav,2,333.69
+1646,668,Pav Bhaji,2,371.81
+1647,754,Idli Sambhar,2,206.0
+1648,273,Cold Coffee,4,248.17
+1649,947,Pav Bhaji,1,138.52
+1650,424,French Fries,3,261.12
+1651,329,Veg Burger,5,420.81
+1652,789,Margherita Pizza,2,593.58
+1653,632,Lassi,4,404.05
+1654,452,Chicken Biryani,2,183.84
+1655,383,Butter Naan,1,138.43
+1656,56,Veg Fried Rice,5,561.9
+1657,890,Lassi,3,87.14
+1658,711,Mango Shake,1,238.66
+1659,483,Paneer Butter Masala,3,188.68
+1660,551,Chicken Tikka,2,364.14
+1661,769,Hakka Noodles,5,331.17
+1662,748,Butter Naan,1,275.84
+1663,928,Rasgulla,5,102.61
+1664,175,Chicken Biryani,3,184.36
+1665,714,Momos,3,107.6
+1666,671,Paneer Butter Masala,1,282.1
+1667,278,Rasgulla,3,529.43
+1668,20,Margherita Pizza,4,200.21
+1669,390,Idli Sambhar,1,550.01
+1670,497,Samosa,5,356.41
+1671,191,Chicken Tikka,5,582.73
+1672,575,Tandoori Roti,1,100.67
+1673,945,Idli Sambhar,3,253.46
+1674,403,Chocolate Brownie,2,89.55
+1675,701,Veg Burger,3,405.12
+1676,242,Idli Sambhar,3,502.18
+1677,641,Hakka Noodles,4,543.01
+1678,835,Paneer Butter Masala,5,573.54
+1679,231,Butter Naan,3,546.53
+1680,673,Butter Naan,1,459.54
+1681,534,Rasgulla,5,533.8
+1682,703,Veg Fried Rice,4,204.99
+1683,157,French Fries,3,553.06
+1684,338,Chole Bhature,5,148.52
+1685,669,Butter Naan,5,361.5
+1686,820,Chicken Tikka,2,240.68
+1687,723,Kathi Roll,5,552.97
+1688,441,Tandoori Roti,2,421.24
+1689,579,Tandoori Roti,2,245.1
+1690,571,Vada Pav,1,175.75
+1691,860,Kathi Roll,2,458.08
+1692,784,Farmhouse Pizza,4,579.82
+1693,311,Chole Bhature,3,159.02
+1694,193,Masala Dosa,2,176.07
+1695,781,Momos,5,218.77
+1696,581,Momos,2,390.11
+1697,237,Rasgulla,1,266.82
+1698,705,Cold Coffee,4,149.73
+1699,867,Momos,4,450.25
+1700,383,Dal Tadka,4,335.55
+1701,141,Dal Tadka,2,197.66
+1702,419,Cold Coffee,1,561.23
+1703,974,French Fries,2,466.03
+1704,208,Cold Coffee,2,114.39
+1705,950,Chole Bhature,5,334.77
+1706,333,Samosa,4,541.55
+1707,438,Chicken Burger,1,396.12
+1708,845,Chicken Burger,3,284.96
+1709,962,Chocolate Brownie,5,388.78
+1710,538,Gulab Jamun,1,350.74
+1711,463,Chole Bhature,1,536.45
+1712,252,Idli Sambhar,5,285.72
+1713,753,Chicken Biryani,5,281.45
+1714,784,Gulab Jamun,1,178.72
+1715,451,Chicken Burger,3,482.31
+1716,293,Chole Bhature,2,299.68
+1717,628,Tandoori Roti,1,438.78
+1718,926,Butter Naan,4,511.54
+1719,463,Veg Biryani,5,138.85
+1720,798,Pav Bhaji,5,150.36
+1721,424,Farmhouse Pizza,4,92.95
+1722,465,Pav Bhaji,2,538.93
+1723,93,Hakka Noodles,3,439.69
+1724,929,Ice Cream Sundae,2,453.55
+1725,127,Veg Biryani,1,447.24
+1726,650,Veg Burger,1,352.38
+1727,394,Chocolate Brownie,5,398.28
+1728,164,Chicken Burger,5,277.92
+1729,787,Dal Tadka,3,374.06
+1730,676,Samosa,2,164.3
+1731,149,Dal Tadka,1,298.18
+1732,317,Chocolate Brownie,4,230.17
+1733,186,Masala Dosa,2,579.43
+1734,4,Momos,3,86.35
+1735,510,Samosa,4,362.62
+1736,6,Momos,4,203.7
+1737,603,Rasgulla,4,315.94
+1738,453,Veg Biryani,5,392.05
+1739,251,Kathi Roll,5,224.62
+1740,644,Vada Pav,2,105.44
+1741,152,Chicken Biryani,3,99.09
+1742,875,Chicken Biryani,5,515.77
+1743,306,Farmhouse Pizza,1,105.5
+1744,427,Dal Tadka,2,429.49
+1745,626,Rasgulla,5,377.59
+1746,576,Dal Tadka,4,469.65
+1747,369,Tandoori Roti,1,128.43
+1748,307,Farmhouse Pizza,3,546.72
+1749,840,Veg Biryani,4,518.52
+1750,67,Margherita Pizza,4,149.96
+1751,712,Samosa,3,251.19
+1752,424,Idli Sambhar,2,441.83
+1753,627,Chicken Biryani,1,377.11
+1754,645,Idli Sambhar,1,331.5
+1755,706,Momos,3,302.07
+1756,869,Farmhouse Pizza,3,353.2
+1757,639,Veg Burger,2,399.43
+1758,509,Idli Sambhar,4,336.1
+1759,185,Kathi Roll,5,201.02
+1760,298,Chicken Tikka,1,141.47
+1761,477,Gulab Jamun,1,463.48
+1762,213,Mango Shake,5,599.47
+1763,424,Chicken Biryani,3,261.82
+1764,826,Gulab Jamun,2,85.87
+1765,207,Ice Cream Sundae,3,212.3
+1766,70,Margherita Pizza,3,343.48
+1767,332,Cold Coffee,1,139.2
+1768,342,Farmhouse Pizza,4,456.69
+1769,631,Paneer Butter Masala,2,180.89
+1770,854,Farmhouse Pizza,4,556.4
+1771,817,Chicken Biryani,2,330.38
+1772,643,Chole Bhature,5,545.88
+1773,474,Mango Shake,4,562.45
+1774,58,Lassi,5,235.66
+1775,743,Rasgulla,3,368.69
+1776,20,Chicken Tikka,5,436.46
+1777,819,Tandoori Roti,3,114.43
+1778,153,Hakka Noodles,1,256.36
+1779,385,Gulab Jamun,5,518.05
+1780,585,Momos,4,177.44
+1781,120,Samosa,3,446.74
+1782,323,Ice Cream Sundae,1,221.18
+1783,89,Rajma Chawal,2,273.22
+1784,850,Margherita Pizza,2,353.05
+1785,180,Masala Dosa,3,488.17
+1786,797,Chicken Tikka,1,310.76
+1787,26,Mango Shake,4,550.58
+1788,158,Chicken Tikka,3,560.29
+1789,751,Samosa,5,241.39
+1790,336,Butter Naan,1,507.51
+1791,961,Idli Sambhar,2,186.7
+1792,38,Chole Bhature,4,451.11
+1793,535,Masala Dosa,1,241.71
+1794,46,Rasgulla,5,533.38
+1795,342,Chole Bhature,1,133.61
+1796,785,Rasgulla,3,91.69
+1797,777,Margherita Pizza,2,246.86
+1798,198,Margherita Pizza,3,356.78
+1799,792,Chole Bhature,1,221.78
+1800,162,Hakka Noodles,1,87.93
+1801,638,Vada Pav,5,133.24
+1802,556,Veg Burger,5,245.61
+1803,145,Ice Cream Sundae,3,378.52
+1804,176,Veg Biryani,3,398.9
+1805,347,Vada Pav,4,106.38
+1806,30,Rajma Chawal,1,135.08
+1807,56,Veg Biryani,4,283.8
+1808,722,Momos,5,407.32
+1809,707,Ice Cream Sundae,4,400.48
+1810,320,Farmhouse Pizza,2,450.71
+1811,687,Mango Shake,5,120.84
+1812,945,Cold Coffee,4,375.25
+1813,96,Lassi,4,130.58
+1814,318,Rasgulla,4,324.68
+1815,971,Veg Fried Rice,2,527.77
+1816,632,Hakka Noodles,3,283.88
+1817,717,Tandoori Roti,3,490.16
+1818,904,Farmhouse Pizza,4,333.5
+1819,67,Rajma Chawal,1,262.75
+1820,473,Samosa,2,226.77
+1821,357,Momos,5,146.24
+1822,106,Chicken Burger,1,249.45
+1823,666,Veg Biryani,3,357.03
+1824,411,Pav Bhaji,4,204.06
+1825,250,Vada Pav,2,586.42
+1826,394,Veg Biryani,3,188.28
+1827,711,Pav Bhaji,4,487.84
+1828,446,Pav Bhaji,3,363.15
+1829,242,Dal Tadka,1,464.47
+1830,729,Pav Bhaji,4,139.45
+1831,611,Chole Bhature,3,368.65
+1832,842,Chole Bhature,2,240.18
+1833,416,Veg Biryani,5,136.55
+1834,834,Momos,4,250.25
+1835,661,Rasgulla,1,127.08
+1836,837,Butter Naan,5,549.69
+1837,652,Mango Shake,1,473.68
+1838,677,Butter Naan,4,356.25
+1839,400,Momos,5,312.52
+1840,211,Rasgulla,3,235.86
+1841,814,Tandoori Roti,3,557.62
+1842,960,French Fries,3,594.95
+1843,597,Paneer Butter Masala,5,592.94
+1844,414,Samosa,2,523.3
+1845,64,Veg Burger,5,583.31
+1846,1,Ice Cream Sundae,5,506.79
+1847,368,Masala Dosa,3,530.15
+1848,241,French Fries,5,285.02
+1849,326,Ice Cream Sundae,4,291.14
+1850,446,Vada Pav,2,424.49
+1851,487,Butter Naan,2,368.82
+1852,864,Tandoori Roti,3,516.78
+1853,158,Margherita Pizza,2,149.82
+1854,74,Gulab Jamun,1,154.88
+1855,907,Rajma Chawal,4,586.99
+1856,140,Veg Biryani,2,413.97
+1857,426,Samosa,4,544.66
+1858,713,Momos,4,404.09
+1859,466,Idli Sambhar,4,367.07
+1860,461,Chicken Burger,3,197.39
+1861,435,Momos,1,380.53
+1862,868,Chocolate Brownie,2,450.31
+1863,276,French Fries,5,379.7
+1864,35,Chicken Biryani,5,331.3
+1865,378,Masala Dosa,5,330.4
+1866,708,Veg Biryani,2,459.7
+1867,540,Samosa,3,321.77
+1868,81,Idli Sambhar,5,125.99
+1869,484,Gulab Jamun,1,435.72
+1870,553,Mango Shake,5,242.5
+1871,55,Kathi Roll,3,358.22
+1872,12,Rajma Chawal,4,346.58
+1873,481,Pav Bhaji,3,298.93
+1874,984,Mango Shake,3,230.39
+1875,37,Ice Cream Sundae,5,469.7
+1876,745,Mango Shake,5,215.43
+1877,645,Rajma Chawal,5,167.92
+1878,53,Rasgulla,3,500.63
+1879,640,Paneer Butter Masala,3,332.08
+1880,130,Idli Sambhar,1,522.75
+1881,285,Hakka Noodles,2,400.21
+1882,282,Samosa,3,87.39
+1883,115,Momos,2,553.27
+1884,757,Butter Naan,4,272.28
+1885,180,Hakka Noodles,2,332.16
+1886,819,Idli Sambhar,1,258.28
+1887,87,Butter Naan,5,565.65
+1888,158,Lassi,4,471.44
+1889,423,Cold Coffee,4,203.73
+1890,451,Chocolate Brownie,2,189.65
+1891,752,Lassi,3,108.25
+1892,271,Cold Coffee,1,107.31
+1893,476,Chicken Burger,4,236.71
+1894,765,Cold Coffee,5,201.5
+1895,700,Ice Cream Sundae,4,326.79
+1896,149,Idli Sambhar,4,86.17
+1897,950,Mango Shake,4,278.64
+1898,324,Idli Sambhar,1,130.63
+1899,545,Gulab Jamun,3,577.22
+1900,443,Momos,3,254.18
+1901,274,Mango Shake,1,212.78
+1902,599,Chicken Burger,4,482.04
+1903,768,Veg Fried Rice,5,480.66
+1904,533,Farmhouse Pizza,2,242.9
+1905,11,Rasgulla,1,512.48
+1906,13,French Fries,1,353.14
+1907,702,Chole Bhature,3,194.1
+1908,291,Hakka Noodles,2,97.7
+1909,635,Veg Biryani,1,568.02
+1910,673,Kathi Roll,2,574.25
+1911,654,Masala Dosa,1,124.92
+1912,620,Butter Naan,4,421.33
+1913,922,Gulab Jamun,5,497.66
+1914,190,Kathi Roll,1,441.74
+1915,260,Margherita Pizza,4,423.45
+1916,78,Gulab Jamun,4,559.8
+1917,284,Cold Coffee,4,439.96
+1918,684,Cold Coffee,3,213.82
+1919,800,Veg Biryani,3,484.1
+1920,392,Chicken Burger,3,597.9
+1921,265,Lassi,3,172.52
+1922,72,Rajma Chawal,2,397.36
+1923,183,Gulab Jamun,4,136.38
+1924,554,Cold Coffee,4,193.56
+1925,659,Masala Dosa,4,452.01
+1926,106,Chicken Biryani,1,116.61
+1927,746,Hakka Noodles,4,89.76
+1928,510,Butter Naan,1,565.1
+1929,681,Chicken Burger,3,158.84
+1930,338,Kathi Roll,4,378.81
+1931,528,Ice Cream Sundae,4,328.63
+1932,414,Samosa,1,360.87
+1933,4,Chicken Burger,4,143.03
+1934,549,Tandoori Roti,3,253.39
+1935,311,Chicken Burger,1,408.78
+1936,982,Gulab Jamun,1,269.98
+1937,874,Farmhouse Pizza,1,517.41
+1938,779,Cold Coffee,3,416.85
+1939,181,Vada Pav,1,583.11
+1940,677,Chicken Tikka,3,441.86
+1941,918,Masala Dosa,3,332.98
+1942,907,Gulab Jamun,4,462.37
+1943,144,Chicken Biryani,2,93.19
+1944,608,Veg Fried Rice,4,282.16
+1945,812,Vada Pav,3,339.84
+1946,989,Lassi,4,582.62
+1947,17,Chicken Biryani,3,109.15
+1948,807,Chocolate Brownie,1,290.86
+1949,217,Mango Shake,5,318.35
+1950,695,Samosa,5,157.46
+1951,594,Veg Fried Rice,1,99.18
+1952,145,Rajma Chawal,1,325.03
+1953,941,Momos,1,206.19
+1954,665,Butter Naan,1,169.57
+1955,52,Kathi Roll,3,506.78
+1956,100,Chole Bhature,5,168.76
+1957,606,Veg Biryani,1,139.37
+1958,610,Mango Shake,5,194.7
+1959,824,Chicken Tikka,4,255.42
+1960,856,Chocolate Brownie,4,248.6
+1961,1000,Rasgulla,5,363.86
+1962,330,Lassi,2,477.4
+1963,608,Dal Tadka,3,112.88
+1964,281,Butter Naan,4,167.39
+1965,379,Vada Pav,2,308.1
+1966,948,Pav Bhaji,1,149.35
+1967,811,Samosa,5,275.59
+1968,162,Paneer Butter Masala,4,121.98
+1969,8,Dal Tadka,1,447.51
+1970,608,Kathi Roll,3,296.44
+1971,827,Mango Shake,4,440.03
+1972,212,Butter Naan,3,352.01
+1973,422,Veg Fried Rice,2,397.48
+1974,39,Momos,2,452.94
+1975,627,Veg Biryani,3,260.88
+1976,5,Vada Pav,2,179.79
+1977,543,Masala Dosa,5,268.19
+1978,780,Vada Pav,5,194.02
+1979,789,Gulab Jamun,2,223.74
+1980,199,Masala Dosa,2,436.33
+1981,992,Tandoori Roti,4,338.71
+1982,164,Rasgulla,1,108.09
+1983,373,Margherita Pizza,2,306.03
+1984,343,Momos,4,102.53
+1985,759,Chicken Biryani,5,171.46
+1986,805,Paneer Butter Masala,4,347.75
+1987,73,Kathi Roll,2,455.13
+1988,607,Pav Bhaji,3,297.91
+1989,766,Rasgulla,3,199.63
+1990,113,Farmhouse Pizza,2,130.99
+1991,756,French Fries,2,275.28
+1992,226,Veg Biryani,4,384.25
+1993,56,Kathi Roll,4,155.37
+1994,951,Momos,4,172.59
+1995,383,Butter Naan,4,454.31
+1996,648,Veg Burger,3,185.15
+1997,131,Chicken Biryani,5,111.02
+1998,140,Masala Dosa,4,318.46
+1999,176,Cold Coffee,3,194.32
+2000,303,Momos,2,490.56

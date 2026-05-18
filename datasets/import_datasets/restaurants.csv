@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+1,Chai & Chat 1,Delhi,Indian,4.5
+2,The Curry Leaf 2,Mumbai,Chinese,4.5
+3,South Spice 3,Kolkata,Indian,4.2
+4,Royal Tandoor 4,Delhi,Indian,3.4
+5,The Hungry Panda 5,Kolkata,Indian,4.1
+6,Madras Cafe 6,Kolkata,Fast Food,3.4
+7,Dragon Wok 7,Bangalore,Indian,4.5
+8,Bombay Bistro 8,Chennai,Italian,3.6
+9,Delhi Darbar 9,Bangalore,Indian,3.2
+10,Curry Kingdom 10,Bangalore,Italian,4.2
+11,Punjabi Dhaba 11,Delhi,Desserts,3.9
+12,Curry Kingdom 12,Chennai,Indian,4.1
+13,Rasoi Ghar 13,Kolkata,Italian,4.2
+14,Madras Cafe 14,Delhi,Indian,4.3
+15,Mumbai Masala 15,Bangalore,Indian,4.7
+16,Taste of Punjab 16,Delhi,Fast Food,3.6
+17,Chai & Chat 17,Bangalore,Chinese,3.7
+18,Delhi Darbar 18,Bangalore,Desserts,4.9
+19,Chai & Chat 19,Delhi,South Indian,4.3
+20,Pizza Junction 20,Mumbai,Chinese,3.9
+21,Masala Magic 21,Kolkata,Chinese,4.4
+22,Rasoi Ghar 22,Delhi,Chinese,4.6
+23,Punjabi Dhaba 23,Bangalore,Fast Food,3.5
+24,Delhi Darbar 24,Kolkata,Desserts,3.6
+25,Chai & Chat 25,Chennai,Fast Food,4.8
+26,Chai & Chat 26,Chennai,Chinese,3.5
+27,The Curry Leaf 27,Kolkata,South Indian,3.5
+28,Dragon Wok 28,Chennai,South Indian,3.8
+29,The Curry Leaf 29,Mumbai,South Indian,4.0
+30,Mumbai Masala 30,Delhi,Indian,3.3
+31,Bombay Bistro 31,Chennai,South Indian,3.1
+32,Annapurna Bhavan 32,Kolkata,Fast Food,4.1
+33,Pizza Junction 33,Delhi,Desserts,4.4
+34,South Spice 34,Kolkata,Italian,4.5
+35,Flavours of India 35,Delhi,Italian,3.9
+36,Mughal Mahal 36,Delhi,Desserts,4.8
+37,Masala Magic 37,Kolkata,Chinese,4.0
+38,Curry Kingdom 38,Bangalore,Desserts,4.0
+39,Delhi Darbar 39,Mumbai,Italian,4.5
+40,Pizza Junction 40,Kolkata,Indian,4.2
+41,Golden Spoon 41,Delhi,Indian,4.9
+42,The Food Studio 42,Bangalore,Chinese,3.1
+43,The Food Studio 43,Kolkata,Indian,3.2
+44,Golden Spoon 44,Delhi,South Indian,4.5
+45,Saffron Delight 45,Chennai,South Indian,3.3
+46,The Hungry Panda 46,Kolkata,Fast Food,4.9
+47,Café Masaledar 47,Kolkata,Desserts,4.4
+48,Madras Cafe 48,Bangalore,Fast Food,5.0
+49,Chai & Chat 49,Bangalore,Fast Food,4.8
+50,Mughal Mahal 50,Delhi,Chinese,3.4
+51,Flavours of India 51,Delhi,South Indian,4.1
+52,Dragon Wok 52,Mumbai,Indian,3.1
+53,Chai & Chat 53,Delhi,Chinese,3.1
+54,Royal Tandoor 54,Bangalore,Indian,4.0
+55,Masala Magic 55,Chennai,Chinese,4.1
+56,Kolkata Kitchen 56,Kolkata,South Indian,3.9
+57,Punjabi Dhaba 57,Chennai,Fast Food,3.4
+58,Curry Kingdom 58,Chennai,Italian,3.8
+59,Mughal Mahal 59,Delhi,Desserts,4.3
+60,Chai & Chat 60,Delhi,Indian,3.8
+61,Flavours of India 61,Delhi,Chinese,3.4
+62,Pizza Junction 62,Chennai,Chinese,3.8
+63,Masala Magic 63,Chennai,Chinese,4.7
+64,Biryani House 64,Chennai,South Indian,3.2
+65,Chai & Chat 65,Kolkata,Indian,4.9
+66,Café Masaledar 66,Mumbai,Chinese,3.8
+67,Golden Spoon 67,Mumbai,Fast Food,4.8
+68,Bombay Bistro 68,Chennai,Indian,5.0
+69,Masala Magic 69,Chennai,Italian,3.8
+70,Kolkata Kitchen 70,Kolkata,Desserts,4.4
+71,Saffron Delight 71,Mumbai,Italian,3.4
+72,Royal Tandoor 72,Kolkata,Desserts,4.1
+73,Kolkata Kitchen 73,Bangalore,Indian,3.1
+74,Golden Spoon 74,Kolkata,South Indian,3.3
+75,The Hungry Panda 75,Delhi,Chinese,3.1
+76,Biryani House 76,Mumbai,Fast Food,3.2
+77,The Food Studio 77,Kolkata,Chinese,4.2
+78,Royal Tandoor 78,Kolkata,Indian,3.8
+79,Dragon Wok 79,Kolkata,South Indian,3.6
+80,Masala Magic 80,Mumbai,Desserts,4.4
+81,The Curry Leaf 81,Bangalore,Fast Food,3.3
+82,Chai & Chat 82,Bangalore,Fast Food,3.6
+83,Mumbai Masala 83,Delhi,Indian,3.9
+84,Dragon Wok 84,Delhi,Indian,4.1
+85,The Hungry Panda 85,Bangalore,Chinese,4.9
+86,The Food Studio 86,Delhi,Chinese,3.7
+87,Bombay Bistro 87,Chennai,South Indian,4.4
+88,Burger Factory 88,Kolkata,Indian,4.3
+89,Pizza Junction 89,Bangalore,Desserts,3.2
+90,The Food Studio 90,Mumbai,Italian,3.2
+91,Curry Kingdom 91,Kolkata,Chinese,3.5
+92,Burger Factory 92,Mumbai,Desserts,3.7
+93,South Spice 93,Bangalore,South Indian,4.0
+94,The Food Studio 94,Delhi,Indian,4.3
+95,Rasoi Ghar 95,Bangalore,Indian,3.0
+96,Mumbai Masala 96,Mumbai,Desserts,5.0
+97,Bombay Bistro 97,Chennai,South Indian,4.4
+98,Pizza Junction 98,Delhi,Indian,3.2
+99,The Food Studio 99,Mumbai,South Indian,3.1
+100,Chutney Express 100,Kolkata,South Indian,3.3
+101,Saffron Delight 101,Delhi,Italian,3.7
+102,Café Masaledar 102,Delhi,Italian,3.4
+103,The Curry Leaf 103,Delhi,Italian,4.6
+104,The Food Studio 104,Chennai,South Indian,4.5
+105,Café Masaledar 105,Mumbai,Chinese,5.0
+106,Punjabi Dhaba 106,Mumbai,Fast Food,3.0
+107,Kolkata Kitchen 107,Bangalore,Fast Food,4.6
+108,Taste of Punjab 108,Mumbai,Italian,3.3
+109,Madras Cafe 109,Delhi,Fast Food,4.7
+110,Taste of Punjab 110,Chennai,Chinese,3.4
+111,Café Masaledar 111,Chennai,Italian,3.6
+112,Punjabi Dhaba 112,Mumbai,Chinese,3.0
+113,Delhi Darbar 113,Chennai,Italian,3.6
+114,Biryani House 114,Bangalore,Italian,4.3
+115,Annapurna Bhavan 115,Kolkata,Italian,4.9
+116,Curry Kingdom 116,Bangalore,Chinese,4.2
+117,Masala Magic 117,Delhi,Indian,4.2
+118,Chutney Express 118,Bangalore,Fast Food,4.2
+119,The Hungry Panda 119,Delhi,Fast Food,4.8
+120,Delhi Darbar 120,Bangalore,Indian,4.4
+121,Spice Villa 121,Kolkata,South Indian,4.4
+122,Kolkata Kitchen 122,Mumbai,Italian,3.9
+123,South Spice 123,Bangalore,South Indian,3.6
+124,Taste of Punjab 124,Delhi,Desserts,4.8
+125,The Hungry Panda 125,Bangalore,Desserts,3.8
+126,Annapurna Bhavan 126,Bangalore,South Indian,3.3
+127,Tandoori Nights 127,Chennai,Desserts,4.5
+128,Bombay Bistro 128,Kolkata,South Indian,3.6
+129,Pizza Junction 129,Delhi,Italian,3.6
+130,Tandoori Nights 130,Kolkata,South Indian,4.3
+131,Mughal Mahal 131,Chennai,Fast Food,4.4
+132,The Hungry Panda 132,Chennai,Desserts,3.3
+133,Biryani House 133,Bangalore,South Indian,4.3
+134,Burger Factory 134,Bangalore,Indian,4.6
+135,Mumbai Masala 135,Mumbai,Desserts,3.6
+136,Punjabi Dhaba 136,Mumbai,Chinese,3.0
+137,The Curry Leaf 137,Chennai,South Indian,4.7
+138,Biryani House 138,Chennai,Fast Food,4.8
+139,Dragon Wok 139,Mumbai,Desserts,4.4
+140,Golden Spoon 140,Chennai,Chinese,3.3
+141,Madras Cafe 141,Delhi,Indian,4.6
+142,The Curry Leaf 142,Mumbai,Desserts,4.0
+143,Royal Tandoor 143,Kolkata,Chinese,4.8
+144,Curry Kingdom 144,Chennai,Chinese,4.6
+145,South Spice 145,Kolkata,South Indian,4.2
+146,Mumbai Masala 146,Chennai,South Indian,4.6
+147,The Food Studio 147,Kolkata,Fast Food,4.7
+148,Pizza Junction 148,Chennai,Chinese,4.5
+149,Golden Spoon 149,Chennai,Italian,4.5
+150,Rasoi Ghar 150,Bangalore,South Indian,4.0
+151,The Curry Leaf 151,Bangalore,Fast Food,3.2
+152,Urban Tadka 152,Mumbai,Italian,3.7
+153,The Food Studio 153,Kolkata,Indian,3.3
+154,The Curry Leaf 154,Chennai,Desserts,3.3
+155,Delhi Darbar 155,Delhi,Fast Food,3.8
+156,Pizza Junction 156,Chennai,Fast Food,3.1
+157,Rasoi Ghar 157,Chennai,Fast Food,4.8
+158,Dragon Wok 158,Delhi,South Indian,3.8
+159,Spice Villa 159,Bangalore,Italian,4.5
+160,Taste of Punjab 160,Chennai,South Indian,4.5
+161,Pizza Junction 161,Kolkata,Chinese,4.0
+162,Masala Magic 162,Chennai,Fast Food,3.1
+163,Flavours of India 163,Chennai,Desserts,3.3
+164,Mughal Mahal 164,Mumbai,South Indian,4.1
+165,Café Masaledar 165,Chennai,South Indian,4.1
+166,Spice Villa 166,Delhi,Desserts,3.9
+167,Taste of Punjab 167,Chennai,Chinese,3.1
+168,Annapurna Bhavan 168,Bangalore,Chinese,3.9
+169,Flavours of India 169,Chennai,Italian,4.5
+170,Rasoi Ghar 170,Chennai,Italian,4.7
+171,Golden Spoon 171,Delhi,Desserts,4.1
+172,Chutney Express 172,Mumbai,Desserts,3.1
+173,Chai & Chat 173,Delhi,Indian,4.9
+174,Delhi Darbar 174,Delhi,South Indian,3.3
+175,Saffron Delight 175,Chennai,Desserts,3.2
+176,Delhi Darbar 176,Chennai,Desserts,3.5
+177,Chutney Express 177,Mumbai,South Indian,4.2
+178,Kolkata Kitchen 178,Delhi,Chinese,4.9
+179,Curry Kingdom 179,Kolkata,Indian,4.9
+180,Dragon Wok 180,Chennai,Fast Food,4.9
+181,Delhi Darbar 181,Delhi,South Indian,4.4
+182,Chai & Chat 182,Mumbai,Indian,4.4
+183,Urban Tadka 183,Kolkata,Indian,4.6
+184,Dragon Wok 184,Delhi,Italian,4.1
+185,South Spice 185,Bangalore,Indian,4.0
+186,Flavours of India 186,Delhi,Fast Food,4.6
+187,Curry Kingdom 187,Chennai,Italian,4.3
+188,Rasoi Ghar 188,Chennai,Desserts,3.3
+189,Bombay Bistro 189,Kolkata,Desserts,3.5
+190,Punjabi Dhaba 190,Kolkata,Fast Food,3.9
+191,Rasoi Ghar 191,Kolkata,Italian,3.6
+192,The Curry Leaf 192,Delhi,Italian,4.8
+193,The Curry Leaf 193,Chennai,South Indian,4.2
+194,Annapurna Bhavan 194,Bangalore,Indian,4.0
+195,Flavours of India 195,Mumbai,Fast Food,3.4
+196,Punjabi Dhaba 196,Bangalore,Italian,3.6
+197,Burger Factory 197,Bangalore,South Indian,3.0
+198,Delhi Darbar 198,Delhi,Chinese,4.4
+199,Golden Spoon 199,Kolkata,Chinese,4.4
+200,Chai & Chat 200,Chennai,Fast Food,4.6
+201,Biryani House 201,Bangalore,Chinese,3.8
+202,The Curry Leaf 202,Bangalore,Desserts,4.2
+203,Golden Spoon 203,Kolkata,South Indian,3.7
+204,Kolkata Kitchen 204,Kolkata,Italian,3.7
+205,Mughal Mahal 205,Bangalore,Italian,3.5
+206,Curry Kingdom 206,Mumbai,Italian,3.2
+207,Pizza Junction 207,Mumbai,Chinese,3.4
+208,Golden Spoon 208,Bangalore,Desserts,4.2
+209,Mumbai Masala 209,Kolkata,South Indian,3.6
+210,Curry Kingdom 210,Mumbai,Italian,3.5
+211,Bombay Bistro 211,Bangalore,Indian,4.4
+212,Saffron Delight 212,Bangalore,Indian,4.9
+213,Pizza Junction 213,Bangalore,Desserts,4.9
+214,Chai & Chat 214,Chennai,Indian,4.7
+215,Dragon Wok 215,Bangalore,Fast Food,4.0
+216,Flavours of India 216,Mumbai,Indian,3.5
+217,Taste of Punjab 217,Chennai,Indian,4.6
+218,Annapurna Bhavan 218,Chennai,Indian,4.2
+219,South Spice 219,Delhi,Chinese,3.3
+220,Dragon Wok 220,Bangalore,Indian,5.0
+221,Curry Kingdom 221,Kolkata,Fast Food,4.2
+222,Punjabi Dhaba 222,Kolkata,Chinese,4.6
+223,Annapurna Bhavan 223,Chennai,Fast Food,3.6
+224,Dragon Wok 224,Chennai,Italian,4.1
+225,Royal Tandoor 225,Kolkata,Desserts,3.2
+226,Mumbai Masala 226,Mumbai,Desserts,3.4
+227,South Spice 227,Delhi,Chinese,3.5
+228,Pizza Junction 228,Delhi,Chinese,3.0
+229,Mughal Mahal 229,Kolkata,Fast Food,3.6
+230,The Curry Leaf 230,Bangalore,Desserts,3.6
+231,Taste of Punjab 231,Chennai,Indian,4.4
+232,Café Masaledar 232,Bangalore,Desserts,4.2
+233,Punjabi Dhaba 233,Mumbai,Fast Food,3.2
+234,The Curry Leaf 234,Mumbai,Italian,4.7
+235,Biryani House 235,Delhi,Chinese,4.6
+236,Burger Factory 236,Kolkata,Italian,3.9
+237,Mughal Mahal 237,Bangalore,Desserts,3.8
+238,Masala Magic 238,Kolkata,South Indian,4.0
+239,Biryani House 239,Kolkata,Indian,4.8
+240,Kolkata Kitchen 240,Bangalore,South Indian,3.5
+241,Biryani House 241,Mumbai,Desserts,4.7
+242,Dragon Wok 242,Kolkata,Indian,5.0
+243,South Spice 243,Bangalore,South Indian,3.1
+244,Mumbai Masala 244,Mumbai,Fast Food,4.0
+245,Mughal Mahal 245,Bangalore,Chinese,5.0
+246,Tandoori Nights 246,Chennai,Indian,3.9
+247,Tandoori Nights 247,Bangalore,Italian,4.3
+248,Taste of Punjab 248,Mumbai,Italian,3.8
+249,Golden Spoon 249,Bangalore,Desserts,4.9
+250,Rasoi Ghar 250,Kolkata,Indian,3.9
+251,Flavours of India 251,Bangalore,Italian,3.2
+252,Mumbai Masala 252,Chennai,South Indian,4.6
+253,Spice Villa 253,Kolkata,Fast Food,3.8
+254,Delhi Darbar 254,Kolkata,Italian,4.2
+255,Golden Spoon 255,Chennai,Indian,3.4
+256,Pizza Junction 256,Mumbai,Italian,3.9
+257,Madras Cafe 257,Chennai,Indian,3.1
+258,Chai & Chat 258,Kolkata,Chinese,4.4
+259,Urban Tadka 259,Kolkata,Indian,4.1
+260,Biryani House 260,Mumbai,Indian,3.9
+261,Curry Kingdom 261,Mumbai,Fast Food,4.9
+262,Urban Tadka 262,Kolkata,Desserts,3.5
+263,Rasoi Ghar 263,Chennai,Fast Food,3.5
+264,Pizza Junction 264,Mumbai,Fast Food,3.4
+265,Burger Factory 265,Kolkata,Desserts,4.8
+266,Taste of Punjab 266,Delhi,Italian,4.5
+267,Taste of Punjab 267,Chennai,Italian,4.9
+268,The Hungry Panda 268,Bangalore,Indian,3.6
+269,Urban Tadka 269,Kolkata,South Indian,5.0
+270,Golden Spoon 270,Mumbai,Fast Food,4.1
+271,Chutney Express 271,Bangalore,South Indian,4.5
+272,Annapurna Bhavan 272,Chennai,Italian,4.7
+273,Madras Cafe 273,Mumbai,South Indian,3.8
+274,Taste of Punjab 274,Chennai,Indian,3.6
+275,Golden Spoon 275,Chennai,Fast Food,5.0
+276,Punjabi Dhaba 276,Mumbai,Fast Food,4.9
+277,Saffron Delight 277,Kolkata,South Indian,3.7
+278,Curry Kingdom 278,Chennai,Indian,4.1
+279,Mughal Mahal 279,Delhi,Desserts,3.3
+280,Taste of Punjab 280,Mumbai,Indian,3.9
+281,Masala Magic 281,Bangalore,South Indian,4.4
+282,Chai & Chat 282,Delhi,Italian,4.7
+283,Taste of Punjab 283,Kolkata,Fast Food,4.9
+284,Chai & Chat 284,Chennai,South Indian,3.1
+285,Biryani House 285,Mumbai,Desserts,4.4
+286,Urban Tadka 286,Mumbai,Desserts,3.2
+287,Curry Kingdom 287,Delhi,Fast Food,3.3
+288,Urban Tadka 288,Delhi,Indian,3.6
+289,Royal Tandoor 289,Bangalore,Italian,3.7
+290,Saffron Delight 290,Mumbai,South Indian,3.8
+291,South Spice 291,Mumbai,Chinese,3.4
+292,Burger Factory 292,Chennai,South Indian,4.4
+293,Golden Spoon 293,Kolkata,Chinese,3.5
+294,Chai & Chat 294,Bangalore,Fast Food,3.5
+295,Spice Villa 295,Chennai,Italian,4.4
+296,Bombay Bistro 296,Delhi,Fast Food,4.9
+297,Dragon Wok 297,Bangalore,Desserts,4.9
+298,Madras Cafe 298,Bangalore,Fast Food,4.7
+299,Delhi Darbar 299,Chennai,Fast Food,3.2
+300,Annapurna Bhavan 300,Kolkata,Italian,4.1
