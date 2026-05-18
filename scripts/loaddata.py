@@ -3,10 +3,10 @@ from sqlalchemy import create_engine
 from pathlib import Path
 
 # Database connection
-username = "postgres"
-password = "Hos%4037307424"
-host = "localhost"
-port = "5432"
+username = "username"
+password = "password"
+host = "host"
+port = "port"
 database = "online_project"
 
 
@@ -15,7 +15,7 @@ engine = create_engine(
 )
 
 # Dataset folder
-folder_path = Path(r"C:\Users\HOSEA\Documents\sql_course_work\sql_ai_course\online_food_delivery project\datasets")
+folder_path = Path(r"C:filepath\online_food_delivery project\datasets")
 
 # Process files
 for file in folder_path.glob("*.csv"):
