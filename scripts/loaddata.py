@@ -3,10 +3,10 @@ from sqlalchemy import create_engine
 from pathlib import Path
 
 # Database connection
-username = "postgres"
-password = "Hos%4037307424"
-host = "localhost"
-port = "5432"
+username = "username"
+password = "yourpassword"
+host = "host"
+port = "port"
 database = "online_project"
 
 
